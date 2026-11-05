@@ -1,0 +1,1890 @@
+[
+  {
+    "contexto": "Página | 16\n  1.\nIntroducción El presente documento consolida el proceso de autoevaluación con fines de Renovación de Acreditación en Alta Calidad del programa académico de Ingeniería en Sistemas, adscrito a la Escuela de Ingeniería de Sistemas y Computación, de la Facultad de Ingeniería de la Universidad del Valle; como resultado del análisis del programa y sus propuestas académicas a la luz del Decreto 1330 del 25 de julio del 2019 del Ministerio de Educación Nacional (ver Anexo 1) y de Acuerdo 02 del 1 de julio 2020 del CESU (ver Anexo 2), normas del Ministerio de Educación Nacional -MEN-.",
+    "pregunta": "¿A qué programa académico se refiere el documento de autoevaluación?",
+    "respuesta": "Ingeniería en Sistemas",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 16,
+    "chunk_idx": 0,
+    "token_count": 149
+  },
+  {
+    "contexto": "Página | 16\n  1.\nIntroducción El presente documento consolida el proceso de autoevaluación con fines de Renovación de Acreditación en Alta Calidad del programa académico de Ingeniería en Sistemas, adscrito a la Escuela de Ingeniería de Sistemas y Computación, de la Facultad de Ingeniería de la Universidad del Valle; como resultado del análisis del programa y sus propuestas académicas a la luz del Decreto 1330 del 25 de julio del 2019 del Ministerio de Educación Nacional (ver Anexo 1) y de Acuerdo 02 del 1 de julio 2020 del CESU (ver Anexo 2), normas del Ministerio de Educación Nacional -MEN-.",
+    "pregunta": "¿Cuál es el propósito del documento?",
+    "respuesta": "La Renovación de Acreditación en Alta Calidad",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 16,
+    "chunk_idx": 0,
+    "token_count": 149
+  },
+  {
+    "contexto": "Página | 16\n  1.\nIntroducción El presente documento consolida el proceso de autoevaluación con fines de Renovación de Acreditación en Alta Calidad del programa académico de Ingeniería en Sistemas, adscrito a la Escuela de Ingeniería de Sistemas y Computación, de la Facultad de Ingeniería de la Universidad del Valle; como resultado del análisis del programa y sus propuestas académicas a la luz del Decreto 1330 del 25 de julio del 2019 del Ministerio de Educación Nacional (ver Anexo 1) y de Acuerdo 02 del 1 de julio 2020 del CESU (ver Anexo 2), normas del Ministerio de Educación Nacional -MEN-.",
+    "pregunta": "¿Qué decreto del Ministerio de Educación Nacional se menciona en el documento?",
+    "respuesta": "Decreto 1330 del 25 de julio del 2019",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 16,
+    "chunk_idx": 0,
+    "token_count": 149
+  },
+  {
+    "contexto": "io de Educación Nacional (ver Anexo 1) y de Acuerdo 02 del 1 de julio 2020 del CESU (ver Anexo 2), normas del Ministerio de Educación Nacional -MEN-.\nEl proceso de autoevaluación implicó un ejercicio de consulta y análisis de las actividades, estrategias de mejoramiento y una ventana de observación que comprendió la vigencia de la acreditación en alta calidad, y del registro calificado por ocho (8) años. Se resalta la participación de profesores delegados por el programa de Ingeniería de Sistemas en la conformación de un Comité de Autoevaluación.",
+    "pregunta": "Qué normas se consideraron para el proceso de autoevaluación",
+    "respuesta": "normas del Ministerio de Educación Nacional -MEN-",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 16,
+    "chunk_idx": 1,
+    "token_count": 138
+  },
+  {
+    "contexto": "io de Educación Nacional (ver Anexo 1) y de Acuerdo 02 del 1 de julio 2020 del CESU (ver Anexo 2), normas del Ministerio de Educación Nacional -MEN-.\nEl proceso de autoevaluación implicó un ejercicio de consulta y análisis de las actividades, estrategias de mejoramiento y una ventana de observación que comprendió la vigencia de la acreditación en alta calidad, y del registro calificado por ocho (8) años. Se resalta la participación de profesores delegados por el programa de Ingeniería de Sistemas en la conformación de un Comité de Autoevaluación.",
+    "pregunta": "Qué ejercicio implicó el proceso de autoevaluación",
+    "respuesta": "un ejercicio de consulta y análisis de las actividades, estrategias de mejoramiento",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 16,
+    "chunk_idx": 1,
+    "token_count": 138
+  },
+  {
+    "contexto": "io de Educación Nacional (ver Anexo 1) y de Acuerdo 02 del 1 de julio 2020 del CESU (ver Anexo 2), normas del Ministerio de Educación Nacional -MEN-.\nEl proceso de autoevaluación implicó un ejercicio de consulta y análisis de las actividades, estrategias de mejoramiento y una ventana de observación que comprendió la vigencia de la acreditación en alta calidad, y del registro calificado por ocho (8) años. Se resalta la participación de profesores delegados por el programa de Ingeniería de Sistemas en la conformación de un Comité de Autoevaluación.",
+    "pregunta": "Cuántos años comprendió el registro calificado",
+    "respuesta": "ocho (8) años",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 16,
+    "chunk_idx": 1,
+    "token_count": 138
+  },
+  {
+    "contexto": "ños. Se resalta la participación de profesores delegados por el programa de Ingeniería de Sistemas en la conformación de un Comité de Autoevaluación.\nEste comité contó con el respaldo de miembros del Comité de Programa, el apoyo de la Escuela de Ingeniería de Sistemas y Computación, la colaboración de docentes nombrados y la vinculación de un grupo de estudiantes vinculados en calidad de monitores.\nEl proceso de autoevaluación también involucró la participación directa de estudiantes, empleados, egresados y empleadores. El proceso de autoevaluación se realizó teniendo en cuenta las oportunidades de mejora encontradas en el proceso de autoevaluación del 2018.",
+    "pregunta": "¿Quiénes participaron en el proceso de autoevaluación?",
+    "respuesta": "estudiantes, empleados, egresados y empleadores",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 16,
+    "chunk_idx": 2,
+    "token_count": 166
+  },
+  {
+    "contexto": "ños. Se resalta la participación de profesores delegados por el programa de Ingeniería de Sistemas en la conformación de un Comité de Autoevaluación.\nEste comité contó con el respaldo de miembros del Comité de Programa, el apoyo de la Escuela de Ingeniería de Sistemas y Computación, la colaboración de docentes nombrados y la vinculación de un grupo de estudiantes vinculados en calidad de monitores.\nEl proceso de autoevaluación también involucró la participación directa de estudiantes, empleados, egresados y empleadores. El proceso de autoevaluación se realizó teniendo en cuenta las oportunidades de mejora encontradas en el proceso de autoevaluación del 2018.",
+    "pregunta": "¿De qué año son las oportunidades de mejora que se tuvieron en cuenta en el proceso de autoevaluación?",
+    "respuesta": "2018",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 16,
+    "chunk_idx": 2,
+    "token_count": 166
+  },
+  {
+    "contexto": "ños. Se resalta la participación de profesores delegados por el programa de Ingeniería de Sistemas en la conformación de un Comité de Autoevaluación.\nEste comité contó con el respaldo de miembros del Comité de Programa, el apoyo de la Escuela de Ingeniería de Sistemas y Computación, la colaboración de docentes nombrados y la vinculación de un grupo de estudiantes vinculados en calidad de monitores.\nEl proceso de autoevaluación también involucró la participación directa de estudiantes, empleados, egresados y empleadores. El proceso de autoevaluación se realizó teniendo en cuenta las oportunidades de mejora encontradas en el proceso de autoevaluación del 2018.",
+    "pregunta": "¿Qué tipo de apoyo recibió el Comité de Autoevaluación?",
+    "respuesta": "Este comité contó con el respaldo de miembros del Comité de Programa, el apoyo de la Escuela de Ingeniería de Sistemas y Computación, la colaboración de docentes nombrados y la vinculación de un grupo de estudiantes vinculados en calidad de monitores.",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 16,
+    "chunk_idx": 2,
+    "token_count": 166
+  },
+  {
+    "contexto": "eadores. El proceso de autoevaluación se realizó teniendo en cuenta las oportunidades de mejora encontradas en el proceso de autoevaluación del 2018.\nEn esa ocasión, se logró la cuarta renovación en alta calidad por un período de 8 años mediante la Resolución No. 017729 del 15 de noviembre de 2018 del Ministerio de Educación Nacional (ver Anexo 3). Adicionalmente, se logró la primera acreditación internacional ARCUSUR mediante el Acuerdo 06-2018 (ver Anexo 4) de Acreditación de Calidad Académica MERCOSUR de Carreras Universitarias del Sistema ARCU-SUR-Red de Agencia Nacionales de Acreditación por 6 años. El proceso de autoevaluación del Programa Académico de Ingeniería de Sistemas refleja los cambios realizados y destaca la consolidación de sus fortalezas, así como los esfuerzos y estrategias para abordar áreas de mejoramiento.",
+    "pregunta": "¿Cuál fue el resultado del proceso de autoevaluación del 2018?",
+    "respuesta": "la cuarta renovación en alta calidad por un período de 8 años",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 16,
+    "chunk_idx": 3,
+    "token_count": 209
+  },
+  {
+    "contexto": "eadores. El proceso de autoevaluación se realizó teniendo en cuenta las oportunidades de mejora encontradas en el proceso de autoevaluación del 2018.\nEn esa ocasión, se logró la cuarta renovación en alta calidad por un período de 8 años mediante la Resolución No. 017729 del 15 de noviembre de 2018 del Ministerio de Educación Nacional (ver Anexo 3). Adicionalmente, se logró la primera acreditación internacional ARCUSUR mediante el Acuerdo 06-2018 (ver Anexo 4) de Acreditación de Calidad Académica MERCOSUR de Carreras Universitarias del Sistema ARCU-SUR-Red de Agencia Nacionales de Acreditación por 6 años. El proceso de autoevaluación del Programa Académico de Ingeniería de Sistemas refleja los cambios realizados y destaca la consolidación de sus fortalezas, así como los esfuerzos y estrategias para abordar áreas de mejoramiento.",
+    "pregunta": "¿Qué tipo de acreditación internacional obtuvo la institución?",
+    "respuesta": "la primera acreditación internacional ARCUSUR",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 16,
+    "chunk_idx": 3,
+    "token_count": 209
+  },
+  {
+    "contexto": "eadores. El proceso de autoevaluación se realizó teniendo en cuenta las oportunidades de mejora encontradas en el proceso de autoevaluación del 2018.\nEn esa ocasión, se logró la cuarta renovación en alta calidad por un período de 8 años mediante la Resolución No. 017729 del 15 de noviembre de 2018 del Ministerio de Educación Nacional (ver Anexo 3). Adicionalmente, se logró la primera acreditación internacional ARCUSUR mediante el Acuerdo 06-2018 (ver Anexo 4) de Acreditación de Calidad Académica MERCOSUR de Carreras Universitarias del Sistema ARCU-SUR-Red de Agencia Nacionales de Acreditación por 6 años. El proceso de autoevaluación del Programa Académico de Ingeniería de Sistemas refleja los cambios realizados y destaca la consolidación de sus fortalezas, así como los esfuerzos y estrategias para abordar áreas de mejoramiento.",
+    "pregunta": "¿Cuántos años es válido el Acuerdo 06-2018 de Acreditación de Calidad Académica MERCOSUR?",
+    "respuesta": "6 años",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 16,
+    "chunk_idx": 3,
+    "token_count": 209
+  },
+  {
+    "contexto": "refleja los cambios realizados y destaca la consolidación de sus fortalezas, así como los esfuerzos y estrategias para abordar áreas de mejoramiento.\nEste compromiso con la mejora continua se evidencia a través de actividades de autorregulación, donde se objetivan las fortalezas, debilidades, oportunidades y amenazas, y se trabaja activamente en el mejoramiento. Cabe destacar, que también se tuvieron en cuenta necesidades locales, nacionales e internacionales relacionadas a campos clave como los Lenguajes y Paradigmas de Programación, Ingeniería de Software e Interacción Humano Computador, Teoría de la Computación, Infraestructura Tecnológica y Gestión Inteligente de Datos, que son fundamentales y se integran en el programa de Ingeniería de Sistemas.",
+    "pregunta": "¿Qué actividades se realizan para objetivar fortalezas y debilidades?",
+    "respuesta": "actividades de autorregulación",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 16,
+    "chunk_idx": 4,
+    "token_count": 190
+  },
+  {
+    "contexto": "refleja los cambios realizados y destaca la consolidación de sus fortalezas, así como los esfuerzos y estrategias para abordar áreas de mejoramiento.\nEste compromiso con la mejora continua se evidencia a través de actividades de autorregulación, donde se objetivan las fortalezas, debilidades, oportunidades y amenazas, y se trabaja activamente en el mejoramiento. Cabe destacar, que también se tuvieron en cuenta necesidades locales, nacionales e internacionales relacionadas a campos clave como los Lenguajes y Paradigmas de Programación, Ingeniería de Software e Interacción Humano Computador, Teoría de la Computación, Infraestructura Tecnológica y Gestión Inteligente de Datos, que son fundamentales y se integran en el programa de Ingeniería de Sistemas.",
+    "pregunta": "¿Qué campos clave se tuvieron en cuenta en el programa de Ingeniería de Sistemas?",
+    "respuesta": "Lenguajes y Paradigmas de Programación, Ingeniería de Software e Interacción Humano Computador, Teoría de la Computación, Infraestructura Tecnológica y Gestión Inteligente de Datos",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 16,
+    "chunk_idx": 4,
+    "token_count": 190
+  },
+  {
+    "contexto": "omputación, Infraestructura Tecnológica y Gestión Inteligente de Datos, que son fundamentales y se integran en el programa de Ingeniería de Sistemas.\nEstas consideraciones se articularon al desarrollo de acciones formativas de la Facultad de Ingeniería, dirigidas a aportar conocimiento",
+    "pregunta": "Qué áreas son fundamentales en el programa de Ingeniería de Sistemas",
+    "respuesta": "Lenguajes y Paradigmas de Programación, Ingeniería de Software e Interacción Humano Computador, Teoría de la Computación, Infraestructura Tecnológica y Gestión Inteligente de Datos",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 16,
+    "chunk_idx": 5,
+    "token_count": 71
+  },
+  {
+    "contexto": "omputación, Infraestructura Tecnológica y Gestión Inteligente de Datos, que son fundamentales y se integran en el programa de Ingeniería de Sistemas.\nEstas consideraciones se articularon al desarrollo de acciones formativas de la Facultad de Ingeniería, dirigidas a aportar conocimiento",
+    "pregunta": "A qué se dirigen las acciones formativas de la Facultad de Ingeniería",
+    "respuesta": "aportar conocimiento",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 16,
+    "chunk_idx": 5,
+    "token_count": 71
+  },
+  {
+    "contexto": "omputación, Infraestructura Tecnológica y Gestión Inteligente de Datos, que son fundamentales y se integran en el programa de Ingeniería de Sistemas.\nEstas consideraciones se articularon al desarrollo de acciones formativas de la Facultad de Ingeniería, dirigidas a aportar conocimiento",
+    "pregunta": "En dónde se integran la computación y la infraestructura tecnológica",
+    "respuesta": "en el programa de Ingeniería de Sistemas",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 16,
+    "chunk_idx": 5,
+    "token_count": 71
+  },
+  {
+    "contexto": "Página | 17\n para el crecimiento y consolidación del desarrollo industrial, tecnológico y de infraestructura de la región y del país.\n El presente documento incluye la metodología utilizada y el modelo metodológico desarrollado por la Universidad para la evaluación de los 12 factores.\nExamina cómo la institución y el programa cumplen con estas características, proporcionan calificaciones y destaca fortalezas y oportunidades de mejora.\nConcluye con una evaluación global, un plan de mejoramiento, la presentación de cuadros maestros y anexos. El programa académico de Ingeniería en Sistemas reconoce el carácter fundamental de este proceso y se somete a consideración del Consejo Nacional de Acreditación.",
+    "pregunta": "¿Cuál es el propósito del documento?",
+    "respuesta": "para el crecimiento y consolidación del desarrollo industrial, tecnológico y de infraestructura de la región y del país",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 17,
+    "chunk_idx": 0,
+    "token_count": 177
+  },
+  {
+    "contexto": "Página | 17\n para el crecimiento y consolidación del desarrollo industrial, tecnológico y de infraestructura de la región y del país.\n El presente documento incluye la metodología utilizada y el modelo metodológico desarrollado por la Universidad para la evaluación de los 12 factores.\nExamina cómo la institución y el programa cumplen con estas características, proporcionan calificaciones y destaca fortalezas y oportunidades de mejora.\nConcluye con una evaluación global, un plan de mejoramiento, la presentación de cuadros maestros y anexos. El programa académico de Ingeniería en Sistemas reconoce el carácter fundamental de este proceso y se somete a consideración del Consejo Nacional de Acreditación.",
+    "pregunta": "¿Qué presenta el documento después de la evaluación?",
+    "respuesta": "un plan de mejoramiento, la presentación de cuadros maestros y anexos",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 17,
+    "chunk_idx": 0,
+    "token_count": 177
+  },
+  {
+    "contexto": "Página | 17\n para el crecimiento y consolidación del desarrollo industrial, tecnológico y de infraestructura de la región y del país.\n El presente documento incluye la metodología utilizada y el modelo metodológico desarrollado por la Universidad para la evaluación de los 12 factores.\nExamina cómo la institución y el programa cumplen con estas características, proporcionan calificaciones y destaca fortalezas y oportunidades de mejora.\nConcluye con una evaluación global, un plan de mejoramiento, la presentación de cuadros maestros y anexos. El programa académico de Ingeniería en Sistemas reconoce el carácter fundamental de este proceso y se somete a consideración del Consejo Nacional de Acreditación.",
+    "pregunta": "¿A qué organismo se somete el programa académico de Ingeniería en Sistemas?",
+    "respuesta": "el Consejo Nacional de Acreditación",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 17,
+    "chunk_idx": 0,
+    "token_count": 177
+  },
+  {
+    "contexto": "Página | 18\n 2.\nAspectos Generales 2.1. La Universidad del Valle La Universidad del Valle es un ente universitario autónomo de orden estatal, con régimen especial, personería jurídica, autonomía académica, administrativa y financiera y patrimonio independiente.\nLa Asamblea Departamental del Valle del Cauca la creó por la Ordenanza 12 del 11 de junio de 1945.\nNació como Universidad Industrial del Valle del Cauca para responder a los retos del desarrollo económico de ese momento del Departamento.",
+    "pregunta": "¿C+omo se creó la Universidad del Valle?",
+    "respuesta": "La Asamblea Departamental del Valle del Cauca la creó por la  Ordenanza 12 del 11 de junio de 1945",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 18,
+    "chunk_idx": 0,
+    "token_count": 124
+  },
+  {
+    "contexto": "Página | 18\n 2.\nAspectos Generales 2.1. La Universidad del Valle La Universidad del Valle es un ente universitario autónomo de orden estatal, con régimen especial, personería jurídica, autonomía académica, administrativa y financiera y patrimonio independiente.\nLa Asamblea Departamental del Valle del Cauca la creó por la Ordenanza 12 del 11 de junio de 1945.\nNació como Universidad Industrial del Valle del Cauca para responder a los retos del desarrollo económico de ese momento del Departamento.",
+    "pregunta": "¿Qué tipo de régimen tiene la Universidad del Valle?",
+    "respuesta": "régimen especial",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 18,
+    "chunk_idx": 0,
+    "token_count": 124
+  },
+  {
+    "contexto": "Página | 18\n 2.\nAspectos Generales 2.1. La Universidad del Valle La Universidad del Valle es un ente universitario autónomo de orden estatal, con régimen especial, personería jurídica, autonomía académica, administrativa y financiera y patrimonio independiente.\nLa Asamblea Departamental del Valle del Cauca la creó por la Ordenanza 12 del 11 de junio de 1945.\nNació como Universidad Industrial del Valle del Cauca para responder a los retos del desarrollo económico de ese momento del Departamento.",
+    "pregunta": "¿Con qué nombre nació la Universidad del Valle?",
+    "respuesta": "Universidad Industrial del Valle del Cauca",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 18,
+    "chunk_idx": 0,
+    "token_count": 124
+  },
+  {
+    "contexto": "o de 1945.\nNació como Universidad Industrial del Valle del Cauca para responder a los retos del desarrollo económico de ese momento del Departamento.\nDurante la primera mitad del siglo XX, el Valle del Cauca se convirtió en una región de fuerte vocación agroindustrial, con un alto dinamismo en áreas como la manufactura, el transporte y la industria. Desde la creación de la universidad, se ha dedicado a la formación académica superior y a la investigación con vocación de servicio y de solución de problemas de alto valor de la sociedad local y regional.\nLa Ordenanza 10 del 16 de diciembre de 1954 cambia su nombre por Universidad del Valle, tal como se le conoce hasta hoy, a lo largo de sus 79 años de existencia, se ha convertido en un motor del desarrollo departamental y regional.",
+    "pregunta": "¿Cómo se cambió el nombre de la Universidad Industrial del Valle del Cauca?",
+    "respuesta": "mediante La Ordenanza 10 del 16 de diciembre de 1954",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 18,
+    "chunk_idx": 1,
+    "token_count": 197
+  },
+  {
+    "contexto": "o de 1945.\nNació como Universidad Industrial del Valle del Cauca para responder a los retos del desarrollo económico de ese momento del Departamento.\nDurante la primera mitad del siglo XX, el Valle del Cauca se convirtió en una región de fuerte vocación agroindustrial, con un alto dinamismo en áreas como la manufactura, el transporte y la industria. Desde la creación de la universidad, se ha dedicado a la formación académica superior y a la investigación con vocación de servicio y de solución de problemas de alto valor de la sociedad local y regional.\nLa Ordenanza 10 del 16 de diciembre de 1954 cambia su nombre por Universidad del Valle, tal como se le conoce hasta hoy, a lo largo de sus 79 años de existencia, se ha convertido en un motor del desarrollo departamental y regional.",
+    "pregunta": "¿Cuál es el propósito principal de la Universidad del Valle?",
+    "respuesta": "formación académica superior y a la investigación con vocación de servicio y de solución de problemas de alto valor de la sociedad local y regional",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 18,
+    "chunk_idx": 1,
+    "token_count": 197
+  },
+  {
+    "contexto": "o de 1945.\nNació como Universidad Industrial del Valle del Cauca para responder a los retos del desarrollo económico de ese momento del Departamento.\nDurante la primera mitad del siglo XX, el Valle del Cauca se convirtió en una región de fuerte vocación agroindustrial, con un alto dinamismo en áreas como la manufactura, el transporte y la industria. Desde la creación de la universidad, se ha dedicado a la formación académica superior y a la investigación con vocación de servicio y de solución de problemas de alto valor de la sociedad local y regional.\nLa Ordenanza 10 del 16 de diciembre de 1954 cambia su nombre por Universidad del Valle, tal como se le conoce hasta hoy, a lo largo de sus 79 años de existencia, se ha convertido en un motor del desarrollo departamental y regional.",
+    "pregunta": "¿En qué año nació la Universidad Industrial del Valle del Cauca?",
+    "respuesta": "1945",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 18,
+    "chunk_idx": 1,
+    "token_count": 197
+  },
+  {
+    "contexto": "alle, tal como se le conoce hasta hoy, a lo largo de sus 79 años de existencia, se ha convertido en un motor del desarrollo departamental y regional. Por ello, es el patrimonio académico, cultural, científico e intelectual más importante del Valle del Cauca. En la constancia del mejoramiento continuo y compromiso con la calidad, sobresalen varios hitos, entre ellos: La creación de la Facultad de Salud en 1950; la construcción de la Sede de San Fernando en 1954 y de la Ciudad Universitaria de Meléndez en 1970; el desarrollo de una Oficina de Planeación en 1963, la primera de su tipo en todas las universidades del país; la expedición del Plan de desarrollo 1986- 2000 que creó el Sistema de Regionalización; la crisis de 1998;",
+    "pregunta": "¿Cuál es el patrimonio más importante del Valle del Cauca?",
+    "respuesta": "el patrimonio académico, cultural, científico e intelectual más importante del Valle del Cauca",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 18,
+    "chunk_idx": 2,
+    "token_count": 183
+  },
+  {
+    "contexto": "alle, tal como se le conoce hasta hoy, a lo largo de sus 79 años de existencia, se ha convertido en un motor del desarrollo departamental y regional. Por ello, es el patrimonio académico, cultural, científico e intelectual más importante del Valle del Cauca. En la constancia del mejoramiento continuo y compromiso con la calidad, sobresalen varios hitos, entre ellos: La creación de la Facultad de Salud en 1950; la construcción de la Sede de San Fernando en 1954 y de la Ciudad Universitaria de Meléndez en 1970; el desarrollo de una Oficina de Planeación en 1963, la primera de su tipo en todas las universidades del país; la expedición del Plan de desarrollo 1986- 2000 que creó el Sistema de Regionalización; la crisis de 1998;",
+    "pregunta": "¿En qué año se creó la Facultad de Salud?",
+    "respuesta": "1950",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 18,
+    "chunk_idx": 2,
+    "token_count": 183
+  },
+  {
+    "contexto": "tipo en todas las universidades del país; la expedición del Plan de desarrollo 1986- 2000 que creó el Sistema de Regionalización; la crisis de 1998; el Plan Estratégico de Desarrollo 2005- 2015 que contribuyó a superar dicha crisis; la primera acreditación institucional en alta calidad por ocho años en 2005; la renovación de dicha acreditación en 2024 por diez años; el Plan Estratégico de Desarrollo 2015-2025; la Política Curricular de 2015 y la creación de tres facultades en los años 2021-2022; la creación del Sistema Interno de Aseguramiento de la Calidad- SIAC, de la Universidad del Valle mediante la resolución 003 del 28 de febrero de 2023 del Consejo Superior. 2.2.",
+    "pregunta": "¿Cuándo se creó el Sistema de Regionalización?",
+    "respuesta": "la expedición del Plan de desarrollo 1986- 2000 que creó el Sistema de Regionalización",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 18,
+    "chunk_idx": 3,
+    "token_count": 169
+  },
+  {
+    "contexto": "tipo en todas las universidades del país; la expedición del Plan de desarrollo 1986- 2000 que creó el Sistema de Regionalización; la crisis de 1998; el Plan Estratégico de Desarrollo 2005- 2015 que contribuyó a superar dicha crisis; la primera acreditación institucional en alta calidad por ocho años en 2005; la renovación de dicha acreditación en 2024 por diez años; el Plan Estratégico de Desarrollo 2015-2025; la Política Curricular de 2015 y la creación de tres facultades en los años 2021-2022; la creación del Sistema Interno de Aseguramiento de la Calidad- SIAC, de la Universidad del Valle mediante la resolución 003 del 28 de febrero de 2023 del Consejo Superior. 2.2.",
+    "pregunta": "¿En qué año se obtuvo la primera acreditación institucional en alta calidad?",
+    "respuesta": "2005",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 18,
+    "chunk_idx": 3,
+    "token_count": 169
+  },
+  {
+    "contexto": "tipo en todas las universidades del país; la expedición del Plan de desarrollo 1986- 2000 que creó el Sistema de Regionalización; la crisis de 1998; el Plan Estratégico de Desarrollo 2005- 2015 que contribuyó a superar dicha crisis; la primera acreditación institucional en alta calidad por ocho años en 2005; la renovación de dicha acreditación en 2024 por diez años; el Plan Estratégico de Desarrollo 2015-2025; la Política Curricular de 2015 y la creación de tres facultades en los años 2021-2022; la creación del Sistema Interno de Aseguramiento de la Calidad- SIAC, de la Universidad del Valle mediante la resolución 003 del 28 de febrero de 2023 del Consejo Superior. 2.2.",
+    "pregunta": "¿Qué resolución del Consejo Superior creó el Sistema Interno de Aseguramiento de la Calidad?",
+    "respuesta": "resolución 003 del 28 de febrero de 2023",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 18,
+    "chunk_idx": 3,
+    "token_count": 169
+  },
+  {
+    "contexto": "rno de Aseguramiento de la Calidad- SIAC, de la Universidad del Valle mediante la resolución 003 del 28 de febrero de 2023 del Consejo Superior. 2.2.  Sistema Interno de Aseguramiento de la Calidad Universidad del Valle – SIAC La Universidad del Valle reconoce en la autoevaluación la estrategia fundamental para motivar la búsqueda de calidad y la alta calidad, tal como lo expresa en su Proyecto Institucional.\nA través del tiempo ha ido articulando acciones que promueven, gestionan y mejoran la calidad, definiendo con ello su Sistema Interno de Aseguramiento de la Calidad -SIAC-, integrándose al Modelo Institucional de la Gestión Integrada de la Calidad de la",
+    "pregunta": "¿Cuándo se emitió la resolución del Consejo Superior sobre el Sistema Interno de Aseguramiento de la Calidad?",
+    "respuesta": "28 de febrero de 2023",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 18,
+    "chunk_idx": 4,
+    "token_count": 166
+  },
+  {
+    "contexto": "rno de Aseguramiento de la Calidad- SIAC, de la Universidad del Valle mediante la resolución 003 del 28 de febrero de 2023 del Consejo Superior. 2.2.  Sistema Interno de Aseguramiento de la Calidad Universidad del Valle – SIAC La Universidad del Valle reconoce en la autoevaluación la estrategia fundamental para motivar la búsqueda de calidad y la alta calidad, tal como lo expresa en su Proyecto Institucional.\nA través del tiempo ha ido articulando acciones que promueven, gestionan y mejoran la calidad, definiendo con ello su Sistema Interno de Aseguramiento de la Calidad -SIAC-, integrándose al Modelo Institucional de la Gestión Integrada de la Calidad de la",
+    "pregunta": "¿Cuál es la estrategia fundamental para motivar la búsqueda de calidad según la Universidad del Valle?",
+    "respuesta": "la autoevaluación",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 18,
+    "chunk_idx": 4,
+    "token_count": 166
+  },
+  {
+    "contexto": "rno de Aseguramiento de la Calidad- SIAC, de la Universidad del Valle mediante la resolución 003 del 28 de febrero de 2023 del Consejo Superior. 2.2.  Sistema Interno de Aseguramiento de la Calidad Universidad del Valle – SIAC La Universidad del Valle reconoce en la autoevaluación la estrategia fundamental para motivar la búsqueda de calidad y la alta calidad, tal como lo expresa en su Proyecto Institucional.\nA través del tiempo ha ido articulando acciones que promueven, gestionan y mejoran la calidad, definiendo con ello su Sistema Interno de Aseguramiento de la Calidad -SIAC-, integrándose al Modelo Institucional de la Gestión Integrada de la Calidad de la",
+    "pregunta": "¿Qué modelo institucional se integra el Sistema Interno de Aseguramiento de la Calidad -SIAC-?",
+    "respuesta": "el Modelo Institucional de la Gestión Integrada de la Calidad",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 18,
+    "chunk_idx": 4,
+    "token_count": 166
+  },
+    {
+    "contexto": "rno de Aseguramiento de la Calidad- SIAC, de la Universidad del Valle mediante la resolución 003 del 28 de febrero de 2023 del Consejo Superior. 2.2.  Sistema Interno de Aseguramiento de la Calidad Universidad del Valle – SIAC La Universidad del Valle reconoce en la autoevaluación la estrategia fundamental para motivar la búsqueda de calidad y la alta calidad, tal como lo expresa en su Proyecto Institucional.\nA través del tiempo ha ido articulando acciones que promueven, gestionan y mejoran la calidad, definiendo con ello su Sistema Interno de Aseguramiento de la Calidad -SIAC-, integrándose al Modelo Institucional de la Gestión Integrada de la Calidad de la",
+    "pregunta": "¿Qué modelo institucional se integra el Sistema Interno de Aseguramiento de la Calidad -SIAC-?",
+    "respuesta": "el Modelo Institucional de la Gestión Integrada de la Calidad",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 18,
+    "chunk_idx": 4,
+    "token_count": 166
+  },
+   {
+    "contexto": "rno de Aseguramiento de la Calidad- SIAC, de la Universidad del Valle mediante la resolución 003 del 28 de febrero de 2023 del Consejo Superior. 2.2.  Sistema Interno de Aseguramiento de la Calidad Universidad del Valle – SIAC La Universidad del Valle reconoce en la autoevaluación la estrategia fundamental para motivar la búsqueda de calidad y la alta calidad, tal como lo expresa en su Proyecto Institucional.\nA través del tiempo ha ido articulando acciones que promueven, gestionan y mejoran la calidad, definiendo con ello su Sistema Interno de Aseguramiento de la Calidad -SIAC-, integrándose al Modelo Institucional de la Gestión Integrada de la Calidad de la",
+    "pregunta": "de qué trata la sección 2.2",
+    "respuesta": "Sistema Interno de Aseguramiento de la Calidad Universidad del Valle – SIAC",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 18,
+    "chunk_idx": 4,
+    "token_count": 166
+  },
+  {
+    "contexto": "Página | 19\n Universidad del Valle -MIGICUV- que entró en vigencia mediante la Resolución 3819 del 21 de diciembre de 2018 de la Rectoría y que da las pautas de una cultura de calidad y mejoramiento continuo en las funciones de docencia, investigación, extensión, administración, bienestar y gestión financiera. La Dirección de Autoevaluación y Calidad Académica -DACA-, como dependencia adscrita a la Vicerrectoría Académica, se encarga de orientar el Sistema Interno de Aseguramiento de la Calidad de la Universidad a través de procesos de autoevaluación y mejoramiento continuo de los programas académicos en consonancia con las vicedecanaturas académicas de las facultades y la Vicerrectoría de regionalización.",
+    "pregunta": "¿Cuándo entró en vigencia la resolución que da pautas de una cultura de calidad y mejoramiento continuo en la Universidad del Valle?",
+    "respuesta": "21 de diciembre de 2018",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 19,
+    "chunk_idx": 0,
+    "token_count": 178
+  },
+  {
+    "contexto": "Página | 19\n Universidad del Valle -MIGICUV- que entró en vigencia mediante la Resolución 3819 del 21 de diciembre de 2018 de la Rectoría y que da las pautas de una cultura de calidad y mejoramiento continuo en las funciones de docencia, investigación, extensión, administración, bienestar y gestión financiera. La Dirección de Autoevaluación y Calidad Académica -DACA-, como dependencia adscrita a la Vicerrectoría Académica, se encarga de orientar el Sistema Interno de Aseguramiento de la Calidad de la Universidad a través de procesos de autoevaluación y mejoramiento continuo de los programas académicos en consonancia con las vicedecanaturas académicas de las facultades y la Vicerrectoría de regionalización.",
+    "pregunta": "¿Cuál es el objetivo de la Dirección de Autoevaluación y Calidad Académica en la Universidad del Valle?",
+    "respuesta": "orientar el Sistema Interno de Aseguramiento de la Calidad de la Universidad a través de procesos de autoevaluación y mejoramiento continuo de los programas académicos",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 19,
+    "chunk_idx": 0,
+    "token_count": 178
+  },
+  {
+    "contexto": "Página | 19\n Universidad del Valle -MIGICUV- que entró en vigencia mediante la Resolución 3819 del 21 de diciembre de 2018 de la Rectoría y que da las pautas de una cultura de calidad y mejoramiento continuo en las funciones de docencia, investigación, extensión, administración, bienestar y gestión financiera. La Dirección de Autoevaluación y Calidad Académica -DACA-, como dependencia adscrita a la Vicerrectoría Académica, se encarga de orientar el Sistema Interno de Aseguramiento de la Calidad de la Universidad a través de procesos de autoevaluación y mejoramiento continuo de los programas académicos en consonancia con las vicedecanaturas académicas de las facultades y la Vicerrectoría de regionalización.",
+    "pregunta": "¿A qué vicerrectoría está adscrita la Dirección de Autoevaluación y Calidad Académica?",
+    "respuesta": "Vicerrectoría Académica",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 19,
+    "chunk_idx": 0,
+    "token_count": 178
+  },
+  {
+    "contexto": "iento continuo de los programas académicos en consonancia con las vicedecanaturas académicas de las facultades y la Vicerrectoría de regionalización.\nLa DACA, de manera particular, lidera la definición, aprobación, ejecución y evaluación de las políticas académicas y curriculares que se concretan en los programas académicos para mantener la excelencia académica de la institución. La Resolución 003 del 28 de febrero de 2023 del Consejo Superior, se armoniza el SIAC de la Universidad del Valle en el marco de las normas de Educación Superior emitidas por el Ministerio de Educación Nacional -MEN-, y se crea el Programa Institucional de Autoevaluación y Calidad.",
+    "pregunta": "¿Qué lidera la DACA en la institución?",
+    "respuesta": "la definición, aprobación, ejecución y evaluación de las políticas académicas y curriculares",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 19,
+    "chunk_idx": 1,
+    "token_count": 166
+  },
+  {
+    "contexto": "iento continuo de los programas académicos en consonancia con las vicedecanaturas académicas de las facultades y la Vicerrectoría de regionalización.\nLa DACA, de manera particular, lidera la definición, aprobación, ejecución y evaluación de las políticas académicas y curriculares que se concretan en los programas académicos para mantener la excelencia académica de la institución. La Resolución 003 del 28 de febrero de 2023 del Consejo Superior, se armoniza el SIAC de la Universidad del Valle en el marco de las normas de Educación Superior emitidas por el Ministerio de Educación Nacional -MEN-, y se crea el Programa Institucional de Autoevaluación y Calidad.",
+    "pregunta": "¿Qué se crea según la Resolución 003 del 28 de febrero de 2023?",
+    "respuesta": "el Programa Institucional de Autoevaluación y Calidad",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 19,
+    "chunk_idx": 1,
+    "token_count": 166
+  },
+  {
+    "contexto": "iento continuo de los programas académicos en consonancia con las vicedecanaturas académicas de las facultades y la Vicerrectoría de regionalización.\nLa DACA, de manera particular, lidera la definición, aprobación, ejecución y evaluación de las políticas académicas y curriculares que se concretan en los programas académicos para mantener la excelencia académica de la institución. La Resolución 003 del 28 de febrero de 2023 del Consejo Superior, se armoniza el SIAC de la Universidad del Valle en el marco de las normas de Educación Superior emitidas por el Ministerio de Educación Nacional -MEN-, y se crea el Programa Institucional de Autoevaluación y Calidad.",
+    "pregunta": "¿Quién emite las normas de Educación Superior que se consideran en la armonización del SIAC?",
+    "respuesta": "el Ministerio de Educación Nacional -MEN-",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 19,
+    "chunk_idx": 1,
+    "token_count": 166
+  },
+  {
+    "contexto": "normas de Educación Superior emitidas por el Ministerio de Educación Nacional -MEN-, y se crea el Programa Institucional de Autoevaluación y Calidad. El Sistema Interno de Aseguramiento de la Calidad -SIAC-, definido por la institución, plantea una gestión más integral, ágil y funcional, garantizando que las acciones de autoevaluación y mejoramiento continuo que realicen los programas académicos se articulen con el Plan Estratégico de Desarrollo de la Universidad y respondan a los procesos de Aseguramiento de la Calidad definidos por el Ministerio de Educación Nacional -MEN- y el Consejo Nacional de Acreditación -CNA-, guardando así coherencia con las políticas institucionales y caracterizándose por ser un proceso permanente, sistemático, participativo, periódico y objetivo, que permite dar cuenta de la autorregulación, autoevaluación y mejoramiento institucional, como lo presenta la Figura 1.",
+    "pregunta": "¿Quién emite las normas de Educación Superior?",
+    "respuesta": "el Ministerio de Educación Nacional -MEN-",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 19,
+    "chunk_idx": 2,
+    "token_count": 226
+  },
+  {
+    "contexto": "normas de Educación Superior emitidas por el Ministerio de Educación Nacional -MEN-, y se crea el Programa Institucional de Autoevaluación y Calidad. El Sistema Interno de Aseguramiento de la Calidad -SIAC-, definido por la institución, plantea una gestión más integral, ágil y funcional, garantizando que las acciones de autoevaluación y mejoramiento continuo que realicen los programas académicos se articulen con el Plan Estratégico de Desarrollo de la Universidad y respondan a los procesos de Aseguramiento de la Calidad definidos por el Ministerio de Educación Nacional -MEN- y el Consejo Nacional de Acreditación -CNA-, guardando así coherencia con las políticas institucionales y caracterizándose por ser un proceso permanente, sistemático, participativo, periódico y objetivo, que permite dar cuenta de la autorregulación, autoevaluación y mejoramiento institucional, como lo presenta la Figura 1.",
+    "pregunta": "¿Cuál es el objetivo del Sistema Interno de Aseguramiento de la Calidad?",
+    "respuesta": "garantizando que las acciones de autoevaluación y mejoramiento continuo que realicen los programas académicos se articulen con el Plan Estratégico de Desarrollo de la Universidad",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 19,
+    "chunk_idx": 2,
+    "token_count": 226
+  },
+  {
+    "contexto": "normas de Educación Superior emitidas por el Ministerio de Educación Nacional -MEN-, y se crea el Programa Institucional de Autoevaluación y Calidad. El Sistema Interno de Aseguramiento de la Calidad -SIAC-, definido por la institución, plantea una gestión más integral, ágil y funcional, garantizando que las acciones de autoevaluación y mejoramiento continuo que realicen los programas académicos se articulen con el Plan Estratégico de Desarrollo de la Universidad y respondan a los procesos de Aseguramiento de la Calidad definidos por el Ministerio de Educación Nacional -MEN- y el Consejo Nacional de Acreditación -CNA-, guardando así coherencia con las políticas institucionales y caracterizándose por ser un proceso permanente, sistemático, participativo, periódico y objetivo, que permite dar cuenta de la autorregulación, autoevaluación y mejoramiento institucional, como lo presenta la Figura 1.",
+    "pregunta": "¿Con qué procesos deben responder las acciones de autoevaluación y mejoramiento continuo?",
+    "respuesta": "a los procesos de Aseguramiento de la Calidad definidos por el Ministerio de Educación Nacional -MEN- y el Consejo Nacional de Acreditación -CNA-",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 19,
+    "chunk_idx": 2,
+    "token_count": 226
+  },
+  {
+    "contexto": "Página | 20\n Figura 1.\nProceso del Sistema Interno de Aseguramiento de la Calidad.  Fuente: Dirección de Autoevaluación y Calidad Académica.\nActualización septiembre 2023. Por tanto, desde el Sistema Interno de Aseguramiento de la Calidad de la Universidad del Valle, se establece la incorporación de estrategias y metodologías que promueven la autoevaluación, autorregulación y mejoramiento continuo.\nSe citan entre ellas: − Seguimiento al cumplimiento del plan de mejoramiento que permite evidenciar avances y presentar cada año los resultados del plan alcanzado por los programas y por la Institución en general.",
+    "pregunta": "¿Cuál es el propósito del Sistema Interno de Aseguramiento de la Calidad de la Universidad del Valle?",
+    "respuesta": "la incorporación de estrategias y metodologías que promueven la autoevaluación, autorregulación y mejoramiento continuo",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 20,
+    "chunk_idx": 0,
+    "token_count": 153
+  },
+  {
+    "contexto": "Página | 20\n Figura 1.\nProceso del Sistema Interno de Aseguramiento de la Calidad.  Fuente: Dirección de Autoevaluación y Calidad Académica.\nActualización septiembre 2023. Por tanto, desde el Sistema Interno de Aseguramiento de la Calidad de la Universidad del Valle, se establece la incorporación de estrategias y metodologías que promueven la autoevaluación, autorregulación y mejoramiento continuo.\nSe citan entre ellas: − Seguimiento al cumplimiento del plan de mejoramiento que permite evidenciar avances y presentar cada año los resultados del plan alcanzado por los programas y por la Institución en general.",
+    "pregunta": "¿Qué se realiza cada año en relación con el plan de mejoramiento?",
+    "respuesta": "presentar cada año los resultados del plan alcanzado por los programas y por la Institución en general",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 20,
+    "chunk_idx": 0,
+    "token_count": 153
+  },
+  {
+    "contexto": "Página | 20\n Figura 1.\nProceso del Sistema Interno de Aseguramiento de la Calidad.  Fuente: Dirección de Autoevaluación y Calidad Académica.\nActualización septiembre 2023. Por tanto, desde el Sistema Interno de Aseguramiento de la Calidad de la Universidad del Valle, se establece la incorporación de estrategias y metodologías que promueven la autoevaluación, autorregulación y mejoramiento continuo.\nSe citan entre ellas: − Seguimiento al cumplimiento del plan de mejoramiento que permite evidenciar avances y presentar cada año los resultados del plan alcanzado por los programas y por la Institución en general.",
+    "pregunta": "¿Qué permite el seguimiento al cumplimiento del plan de mejoramiento?",
+    "respuesta": "evidenciar avances",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 20,
+    "chunk_idx": 0,
+    "token_count": 153
+  },
+  {
+    "contexto": "mejoramiento que permite evidenciar avances y presentar cada año los resultados del plan alcanzado por los programas y por la Institución en general. − Proceso de autoevaluación con fases y actividades basado en la experiencia de la aplicación del modelo metodológico a nivel institucional y de programas académicos, que ha permitido evidenciar la evolución de los aspectos de calidad en el que se incluye la recopilación y análisis de la opinión de la comunidad universitaria, la información suministrada por los sistemas de información institucional y de las dependencias responsables de los datos, así como sistemas de información internos para el seguimiento y control de la información.",
+    "pregunta": "¿Qué permite el proceso de autoevaluación en una institución universitaria?",
+    "respuesta": "evidenciar la evolución de los aspectos de calidad",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 20,
+    "chunk_idx": 1,
+    "token_count": 172
+  },
+  {
+    "contexto": "mejoramiento que permite evidenciar avances y presentar cada año los resultados del plan alcanzado por los programas y por la Institución en general. − Proceso de autoevaluación con fases y actividades basado en la experiencia de la aplicación del modelo metodológico a nivel institucional y de programas académicos, que ha permitido evidenciar la evolución de los aspectos de calidad en el que se incluye la recopilación y análisis de la opinión de la comunidad universitaria, la información suministrada por los sistemas de información institucional y de las dependencias responsables de los datos, así como sistemas de información internos para el seguimiento y control de la información.",
+    "pregunta": "¿Cuál es el objetivo del mejoramiento en una institución universitaria?",
+    "respuesta": "presentar cada año los resultados del plan alcanzado por los programas y por la Institución en general",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 20,
+    "chunk_idx": 1,
+    "token_count": 172
+  },
+  {
+    "contexto": "mejoramiento que permite evidenciar avances y presentar cada año los resultados del plan alcanzado por los programas y por la Institución en general. − Proceso de autoevaluación con fases y actividades basado en la experiencia de la aplicación del modelo metodológico a nivel institucional y de programas académicos, que ha permitido evidenciar la evolución de los aspectos de calidad en el que se incluye la recopilación y análisis de la opinión de la comunidad universitaria, la información suministrada por los sistemas de información institucional y de las dependencias responsables de los datos, así como sistemas de información internos para el seguimiento y control de la información.",
+    "pregunta": "¿Qué se incluye en el proceso de autoevaluación para evidenciar la evolución de los aspectos de calidad?",
+    "respuesta": "la recopilación y análisis de la opinión de la comunidad universitaria",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 20,
+    "chunk_idx": 1,
+    "token_count": 172
+  },
+  {
+    "contexto": "itucional y de las dependencias responsables de los datos, así como sistemas de información internos para el seguimiento y control de la información. − Formulación del plan de mejoramiento producto del proceso de autoevaluación que permite identificar oportunidades de mejora y definir responsables, acciones, metas y objetivos alcanzables. − Procesos de fortalecimiento a los planes de mejoramiento con recursos institucionales articulados a proyectos de inversión. El Sistema Interno de Aseguramiento de la Calidad involucra la planeación, la información, la comunicación, el trabajo en equipo, donde participan las diferentes instancias directivas y operativas que tienen responsabilidades en el cumplimiento de las funciones sustantivas",
+    "pregunta": "Qué involucra el Sistema Interno de Aseguramiento de la Calidad",
+    "respuesta": "la planeación, la información, la comunicación, el trabajo en equipo",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 20,
+    "chunk_idx": 2,
+    "token_count": 185
+  },
+  {
+    "contexto": "itucional y de las dependencias responsables de los datos, así como sistemas de información internos para el seguimiento y control de la información. − Formulación del plan de mejoramiento producto del proceso de autoevaluación que permite identificar oportunidades de mejora y definir responsables, acciones, metas y objetivos alcanzables. − Procesos de fortalecimiento a los planes de mejoramiento con recursos institucionales articulados a proyectos de inversión. El Sistema Interno de Aseguramiento de la Calidad involucra la planeación, la información, la comunicación, el trabajo en equipo, donde participan las diferentes instancias directivas y operativas que tienen responsabilidades en el cumplimiento de las funciones sustantivas",
+    "pregunta": "Qué permite identificar el proceso de autoevaluación",
+    "respuesta": "identificar oportunidades de mejora y definir responsables, acciones, metas y objetivos alcanzables",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 20,
+    "chunk_idx": 2,
+    "token_count": 185
+  },
+  {
+    "contexto": "itucional y de las dependencias responsables de los datos, así como sistemas de información internos para el seguimiento y control de la información. − Formulación del plan de mejoramiento producto del proceso de autoevaluación que permite identificar oportunidades de mejora y definir responsables, acciones, metas y objetivos alcanzables. − Procesos de fortalecimiento a los planes de mejoramiento con recursos institucionales articulados a proyectos de inversión. El Sistema Interno de Aseguramiento de la Calidad involucra la planeación, la información, la comunicación, el trabajo en equipo, donde participan las diferentes instancias directivas y operativas que tienen responsabilidades en el cumplimiento de las funciones sustantivas",
+    "pregunta": "Con qué se articulan los procesos de fortalecimiento a los planes de mejoramiento",
+    "respuesta": "recursos institucionales articulados a proyectos de inversión",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 20,
+    "chunk_idx": 2,
+    "token_count": 185
+  },
+  {
+    "contexto": "Página | 21\n de la Universidad.\nDurante el proceso de autoevaluación se destaca la participación de la comunidad universitaria en las actividades institucionales y toma de decisiones; así como la socialización permanente del proceso a través de capacitaciones, encuentros, talleres y publicaciones para el conocimiento de los involucrados.",
+    "pregunta": "¿Qué se destaca en el proceso de autoevaluación?",
+    "respuesta": "la participación de la comunidad universitaria en las actividades institucionales y toma de decisiones",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 21,
+    "chunk_idx": 0,
+    "token_count": 84
+  },
+  {
+    "contexto": "Página | 21\n de la Universidad.\nDurante el proceso de autoevaluación se destaca la participación de la comunidad universitaria en las actividades institucionales y toma de decisiones; así como la socialización permanente del proceso a través de capacitaciones, encuentros, talleres y publicaciones para el conocimiento de los involucrados.",
+    "pregunta": "¿Qué tipo de actividades se realizan para la socialización del proceso de autoevaluación?",
+    "respuesta": "capacitaciones, encuentros, talleres y publicaciones",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 21,
+    "chunk_idx": 0,
+    "token_count": 84
+  },
+  {
+    "contexto": "Página | 21\n de la Universidad.\nDurante el proceso de autoevaluación se destaca la participación de la comunidad universitaria en las actividades institucionales y toma de decisiones; así como la socialización permanente del proceso a través de capacitaciones, encuentros, talleres y publicaciones para el conocimiento de los involucrados.",
+    "pregunta": "¿Cuál es el objetivo de la socialización del proceso de autoevaluación?",
+    "respuesta": "el conocimiento de los involucrados",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 21,
+    "chunk_idx": 0,
+    "token_count": 84
+  },
+  {
+    "contexto": "mo la socialización permanente del proceso a través de capacitaciones, encuentros, talleres y publicaciones para el conocimiento de los involucrados.\n Ello permite analizar los cambios, mejoras y transformaciones que evidencian los avances en el desarrollo de la institución y sus programas para mantener su alta calidad. 2.3. Sistema de Regionalización El Sistema de Regionalización data del año 1986, inicialmente se consolidó con los Centros Universitarios Regionales – CURC y en la actualidad, por medio de nueve (9) Sedes Regionales en los principales municipios de los Departamentos del Valle del Cauca y del Cauca así: Caicedonia, Cartago, Zarzal, Tuluá, Buga, Palmira, Yumbo, Buenaventura y Santander de Quilichao.",
+    "pregunta": "¿Qué año se consolidó el Sistema de Regionalización?",
+    "respuesta": "1986",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 21,
+    "chunk_idx": 1,
+    "token_count": 180
+  },
+  {
+    "contexto": "mo la socialización permanente del proceso a través de capacitaciones, encuentros, talleres y publicaciones para el conocimiento de los involucrados.\n Ello permite analizar los cambios, mejoras y transformaciones que evidencian los avances en el desarrollo de la institución y sus programas para mantener su alta calidad. 2.3. Sistema de Regionalización El Sistema de Regionalización data del año 1986, inicialmente se consolidó con los Centros Universitarios Regionales – CURC y en la actualidad, por medio de nueve (9) Sedes Regionales en los principales municipios de los Departamentos del Valle del Cauca y del Cauca así: Caicedonia, Cartago, Zarzal, Tuluá, Buga, Palmira, Yumbo, Buenaventura y Santander de Quilichao.",
+    "pregunta": "¿Cuál es el propósito de la socialización permanente del proceso?",
+    "respuesta": "para el conocimiento de los involucrados",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 21,
+    "chunk_idx": 1,
+    "token_count": 180
+  },
+  {
+    "contexto": "mo la socialización permanente del proceso a través de capacitaciones, encuentros, talleres y publicaciones para el conocimiento de los involucrados.\n Ello permite analizar los cambios, mejoras y transformaciones que evidencian los avances en el desarrollo de la institución y sus programas para mantener su alta calidad. 2.3. Sistema de Regionalización El Sistema de Regionalización data del año 1986, inicialmente se consolidó con los Centros Universitarios Regionales – CURC y en la actualidad, por medio de nueve (9) Sedes Regionales en los principales municipios de los Departamentos del Valle del Cauca y del Cauca así: Caicedonia, Cartago, Zarzal, Tuluá, Buga, Palmira, Yumbo, Buenaventura y Santander de Quilichao.",
+    "pregunta": "¿Cuántas Sedes Regionales tiene la institución en los principales municipios de los Departamentos del Valle del Cauca y del Cauca?",
+    "respuesta": "nueve (9)",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 21,
+    "chunk_idx": 1,
+    "token_count": 180
+  },
+  {
+    "contexto": "s Departamentos del Valle del Cauca y del Cauca así: Caicedonia, Cartago, Zarzal, Tuluá, Buga, Palmira, Yumbo, Buenaventura y Santander de Quilichao.\nAlgunas de las Sedes se han extendido a su entorno más cercano mediante cinco (5) nodos: Sevilla (Sede Caicedonia), Florida (Seccional Palmira), Jamundí, Candelaria y Miranda Cauca (Sede Norte del Cauca Santander de Quilichao).\nLa ubicación geográfica de las Sedes Regionales puede apreciarse en la Figura 2. Figura 2.\nSistema de Regionalización  Fuente: Sistema de Regionalización - https://regionalizacion.univalle.edu.co/.",
+    "pregunta": "¿Cuáles son algunos de los departamentos que incluye el sistema de regionalización?",
+    "respuesta": " Caicedonia, Cartago, Zarzal, Tuluá, Buga, Palmira, Yumbo, Buenaventura y Santander de Quilichao",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 21,
+    "chunk_idx": 2,
+    "token_count": 143
+  },
+  {
+    "contexto": "s Departamentos del Valle del Cauca y del Cauca así: Caicedonia, Cartago, Zarzal, Tuluá, Buga, Palmira, Yumbo, Buenaventura y Santander de Quilichao.\nAlgunas de las Sedes se han extendido a su entorno más cercano mediante cinco (5) nodos: Sevilla (Sede Caicedonia), Florida (Seccional Palmira), Jamundí, Candelaria y Miranda Cauca (Sede Norte del Cauca Santander de Quilichao).\nLa ubicación geográfica de las Sedes Regionales puede apreciarse en la Figura 2. Figura 2.\nSistema de Regionalización  Fuente: Sistema de Regionalización - https://regionalizacion.univalle.edu.co/.",
+    "pregunta": "¿Qué nodos se han extendido desde la Sede Caicedonia?",
+    "respuesta": "Sevilla",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 21,
+    "chunk_idx": 2,
+    "token_count": 143
+  },
+  {
+    "contexto": "s Departamentos del Valle del Cauca y del Cauca así: Caicedonia, Cartago, Zarzal, Tuluá, Buga, Palmira, Yumbo, Buenaventura y Santander de Quilichao.\nAlgunas de las Sedes se han extendido a su entorno más cercano mediante cinco (5) nodos: Sevilla (Sede Caicedonia), Florida (Seccional Palmira), Jamundí, Candelaria y Miranda Cauca (Sede Norte del Cauca Santander de Quilichao).\nLa ubicación geográfica de las Sedes Regionales puede apreciarse en la Figura 2. Figura 2.\nSistema de Regionalización  Fuente: Sistema de Regionalización - https://regionalizacion.univalle.edu.co/.",
+    "pregunta": "¿Dónde se puede apreciar la ubicación geográfica de las Sedes Regionales?",
+    "respuesta": "Figura 2",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 21,
+    "chunk_idx": 2,
+    "token_count": 143
+  },
+  {
+    "contexto": "Página | 22\n La estrategia de fortalecimiento de un Sistema de Regionalización ha servido para que las regiones puedan disponer no sólo de oportunidades de formación, sino de desarrollos tecnológicos, sociales y culturales importantes.\nAdicionalmente, la Universidad del Valle ha permitido extender la formación de calidad al suroccidente colombiano, lo cual es avalado por el Ministerio de Educación Nacional al otorgar entre los años 2021-2023 el concepto favorable a las Condiciones Institucionales de cada una de las Sedes, Nodos y Seccionales.  3.",
+    "pregunta": "¿Qué ha permitido la Universidad del Valle en el suroccidente colombiano?",
+    "respuesta": "extender la formación de calidad al suroccidente colombiano",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 22,
+    "chunk_idx": 0,
+    "token_count": 138
+  },
+  {
+    "contexto": "Página | 22\n La estrategia de fortalecimiento de un Sistema de Regionalización ha servido para que las regiones puedan disponer no sólo de oportunidades de formación, sino de desarrollos tecnológicos, sociales y culturales importantes.\nAdicionalmente, la Universidad del Valle ha permitido extender la formación de calidad al suroccidente colombiano, lo cual es avalado por el Ministerio de Educación Nacional al otorgar entre los años 2021-2023 el concepto favorable a las Condiciones Institucionales de cada una de las Sedes, Nodos y Seccionales.  3.",
+    "pregunta": "¿Quién otorgó el concepto favorable a las Condiciones Institucionales de cada una de las Sedes, Nodos y Seccionales?",
+    "respuesta": "el Ministerio de Educación Nacional",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 22,
+    "chunk_idx": 0,
+    "token_count": 138
+  },
+  {
+    "contexto": "Página | 22\n La estrategia de fortalecimiento de un Sistema de Regionalización ha servido para que las regiones puedan disponer no sólo de oportunidades de formación, sino de desarrollos tecnológicos, sociales y culturales importantes.\nAdicionalmente, la Universidad del Valle ha permitido extender la formación de calidad al suroccidente colombiano, lo cual es avalado por el Ministerio de Educación Nacional al otorgar entre los años 2021-2023 el concepto favorable a las Condiciones Institucionales de cada una de las Sedes, Nodos y Seccionales.  3.",
+    "pregunta": "¿En qué años se otorgó el concepto favorable a las Condiciones Institucionales?",
+    "respuesta": "2021-2023",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 22,
+    "chunk_idx": 0,
+    "token_count": 138
+  },
+  {
+    "contexto": "cional al otorgar entre los años 2021-2023 el concepto favorable a las Condiciones Institucionales de cada una de las Sedes, Nodos y Seccionales.  3.\nSistema Interno de Aseguramiento de la Calidad Universidad del Valle – SIAC Los programas académicos que adelantan procesos de acreditación en alta calidad utilizan el Modelo de Autoevaluación Institucional definido por la Universidad de acuerdo con los factores y características del proceso de acreditación establecido por el Consejo Nacional de Acreditación - CNA- a través del Acuerdo CESU 02 de 2020 y las diferentes reglamentaciones y lineamientos que esta instancia define.",
+    "pregunta": "¿Cuándo se otorgó el concepto favorable a las Condiciones Institucionales de las Sedes, Nodos y Seccionales?",
+    "respuesta": "2021-2023",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 22,
+    "chunk_idx": 1,
+    "token_count": 157
+  },
+  {
+    "contexto": "cional al otorgar entre los años 2021-2023 el concepto favorable a las Condiciones Institucionales de cada una de las Sedes, Nodos y Seccionales.  3.\nSistema Interno de Aseguramiento de la Calidad Universidad del Valle – SIAC Los programas académicos que adelantan procesos de acreditación en alta calidad utilizan el Modelo de Autoevaluación Institucional definido por la Universidad de acuerdo con los factores y características del proceso de acreditación establecido por el Consejo Nacional de Acreditación - CNA- a través del Acuerdo CESU 02 de 2020 y las diferentes reglamentaciones y lineamientos que esta instancia define.",
+    "pregunta": "¿Qué modelo utiliza la Universidad para la autoevaluación institucional en procesos de acreditación?",
+    "respuesta": "el Modelo de Autoevaluación Institucional definido por la Universidad",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 22,
+    "chunk_idx": 1,
+    "token_count": 157
+  },
+  {
+    "contexto": "cional al otorgar entre los años 2021-2023 el concepto favorable a las Condiciones Institucionales de cada una de las Sedes, Nodos y Seccionales.  3.\nSistema Interno de Aseguramiento de la Calidad Universidad del Valle – SIAC Los programas académicos que adelantan procesos de acreditación en alta calidad utilizan el Modelo de Autoevaluación Institucional definido por la Universidad de acuerdo con los factores y características del proceso de acreditación establecido por el Consejo Nacional de Acreditación - CNA- a través del Acuerdo CESU 02 de 2020 y las diferentes reglamentaciones y lineamientos que esta instancia define.",
+    "pregunta": "¿Qué acuerdo establece los factores y características del proceso de acreditación?",
+    "respuesta": "el Acuerdo CESU 02 de 2020",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 22,
+    "chunk_idx": 1,
+    "token_count": 157
+  },
+    {
+    "contexto": "cional al otorgar entre los años 2021-2023 el concepto favorable a las Condiciones Institucionales de cada una de las Sedes, Nodos y Seccionales.  3.\nSistema Interno de Aseguramiento de la Calidad Universidad del Valle – SIAC Los programas académicos que adelantan procesos de acreditación en alta calidad utilizan el Modelo de Autoevaluación Institucional definido por la Universidad de acuerdo con los factores y características del proceso de acreditación establecido por el Consejo Nacional de Acreditación - CNA- a través del Acuerdo CESU 02 de 2020 y las diferentes reglamentaciones y lineamientos que esta instancia define.",
+    "pregunta": "De qué trata la sección 3 del documento",
+    "respuesta": " Sistema Interno de Aseguramiento de la Calidad Universidad del Valle – SIAC ",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 22,
+    "chunk_idx": 1,
+    "token_count": 157
+  },
+  {
+    "contexto": "sejo Nacional de Acreditación - CNA- a través del Acuerdo CESU 02 de 2020 y las diferentes reglamentaciones y lineamientos que esta instancia define. El modelo de autoevaluación de la Universidad del Valle establecido para la acreditación institucional consta de once (11) fases que se deben adelantar por los programas académicos, los cuales se describen en la Gráfica (como fin primordial de la autoevaluación) en los tiempos que se presentan en la Figura 3. Figura 3.\nModelo de aseguramiento de la calidad de la Universidad del Valle para Acreditación en Alta Calidad.  Fuente: Dirección de Autoevaluación y Calidad Académica.\nActualización julio 2023.",
+    "pregunta": "Quién define las reglamentaciones y lineamientos para la acreditación institucional",
+    "respuesta": "Consejo Nacional de Acreditación - CNA-",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 22,
+    "chunk_idx": 2,
+    "token_count": 163
+  },
+  {
+    "contexto": "sejo Nacional de Acreditación - CNA- a través del Acuerdo CESU 02 de 2020 y las diferentes reglamentaciones y lineamientos que esta instancia define. El modelo de autoevaluación de la Universidad del Valle establecido para la acreditación institucional consta de once (11) fases que se deben adelantar por los programas académicos, los cuales se describen en la Gráfica (como fin primordial de la autoevaluación) en los tiempos que se presentan en la Figura 3. Figura 3.\nModelo de aseguramiento de la calidad de la Universidad del Valle para Acreditación en Alta Calidad.  Fuente: Dirección de Autoevaluación y Calidad Académica.\nActualización julio 2023.",
+    "pregunta": "Cuántas fases tiene el modelo de autoevaluación de la Universidad del Valle",
+    "respuesta": "once (11) fases",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 22,
+    "chunk_idx": 2,
+    "token_count": 163
+  },
+  {
+    "contexto": "sejo Nacional de Acreditación - CNA- a través del Acuerdo CESU 02 de 2020 y las diferentes reglamentaciones y lineamientos que esta instancia define. El modelo de autoevaluación de la Universidad del Valle establecido para la acreditación institucional consta de once (11) fases que se deben adelantar por los programas académicos, los cuales se describen en la Gráfica (como fin primordial de la autoevaluación) en los tiempos que se presentan en la Figura 3. Figura 3.\nModelo de aseguramiento de la calidad de la Universidad del Valle para Acreditación en Alta Calidad.  Fuente: Dirección de Autoevaluación y Calidad Académica.\nActualización julio 2023.",
+    "pregunta": "Cuándo se realizó la actualización del modelo de aseguramiento de la calidad",
+    "respuesta": "julio 2023",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 22,
+    "chunk_idx": 2,
+    "token_count": 163
+  },
+  {
+    "contexto": "Página | 23\n Para aportar a la compresión de las fases de los procesos del Sistema Interno de Aseguramiento de la Calidad -SIAC-, la DACA ha elaborado la guía para Acreditación en Alta Calidad por primera vez que puede ser consultada en el siguiente enlace: http://daca.univalle.edu.co/guias- siac1 .\nA continuación, se mencionan de manera general las fases del 1 al 6 y la 11, que corresponden al modelo de Autoevaluación de la Universidad del Valle: Para el caso de renovación de la acreditación en alta calidad: Fase 1.",
+    "pregunta": "¿Dónde se puede consultar la guía para Acreditación en Alta Calidad?",
+    "respuesta": "http://daca.univalle.edu.co/guias-siac1",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 23,
+    "chunk_idx": 0,
+    "token_count": 130
+  },
+  {
+    "contexto": "Página | 23\n Para aportar a la compresión de las fases de los procesos del Sistema Interno de Aseguramiento de la Calidad -SIAC-, la DACA ha elaborado la guía para Acreditación en Alta Calidad por primera vez que puede ser consultada en el siguiente enlace: http://daca.univalle.edu.co/guias- siac1 .\nA continuación, se mencionan de manera general las fases del 1 al 6 y la 11, que corresponden al modelo de Autoevaluación de la Universidad del Valle: Para el caso de renovación de la acreditación en alta calidad: Fase 1.",
+    "pregunta": "¿Cuál es el propósito de la guía elaborada por la DACA?",
+    "respuesta": "aportar a la compresión de las fases de los procesos del Sistema Interno de Aseguramiento de la Calidad -SIAC-",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 23,
+    "chunk_idx": 0,
+    "token_count": 130
+  },
+  {
+    "contexto": "11, que corresponden al modelo de Autoevaluación de la Universidad del Valle: Para el caso de renovación de la acreditación en alta calidad: Fase 1.\nInforme de avance del seguimiento al cumplimiento del plan de mejoramiento De acuerdo con el seguimiento al cumplimiento del plan de mejoramiento que realiza el programa de manera continua a las oportunidades de mejoramiento identificadas, a los seis (6) meses antes de cumplirse la mitad de la vigencia de la Acreditación en Alta Calidad del programa académico, el programa deberá enviar desde la Vicedecanatura Académica el Informe de Avance del Seguimiento al Cumplimiento del Plan de Mejoramiento. Desde la DACA se realizará la respectiva radicación del informe de avance del seguimiento al cumplimiento del plan de mejoramiento ante el CNA antes de la mitad de la vigencia de la Acreditación en Alta Calidad, como lo indica el Acuerdo 02 - Guía No. 4. Fase 2.",
+    "pregunta": "¿Cuándo debe enviarse el Informe de Avance del Seguimiento al Cumplimiento del Plan de Mejoramiento?",
+    "respuesta": "a los seis (6) meses antes de cumplirse la mitad de la vigencia de la Acreditación en Alta Calidad del programa académico",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 23,
+    "chunk_idx": 1,
+    "token_count": 228
+  },
+  {
+    "contexto": "11, que corresponden al modelo de Autoevaluación de la Universidad del Valle: Para el caso de renovación de la acreditación en alta calidad: Fase 1.\nInforme de avance del seguimiento al cumplimiento del plan de mejoramiento De acuerdo con el seguimiento al cumplimiento del plan de mejoramiento que realiza el programa de manera continua a las oportunidades de mejoramiento identificadas, a los seis (6) meses antes de cumplirse la mitad de la vigencia de la Acreditación en Alta Calidad del programa académico, el programa deberá enviar desde la Vicedecanatura Académica el Informe de Avance del Seguimiento al Cumplimiento del Plan de Mejoramiento. Desde la DACA se realizará la respectiva radicación del informe de avance del seguimiento al cumplimiento del plan de mejoramiento ante el CNA antes de la mitad de la vigencia de la Acreditación en Alta Calidad, como lo indica el Acuerdo 02 - Guía No. 4. Fase 2.",
+    "pregunta": "¿Qué hace el programa de manera continua con las oportunidades de mejoramiento identificadas?",
+    "respuesta": "seguimiento al cumplimiento del plan de mejoramiento",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 23,
+    "chunk_idx": 1,
+    "token_count": 228
+  },
+  {
+    "contexto": "11, que corresponden al modelo de Autoevaluación de la Universidad del Valle: Para el caso de renovación de la acreditación en alta calidad: Fase 1.\nInforme de avance del seguimiento al cumplimiento del plan de mejoramiento De acuerdo con el seguimiento al cumplimiento del plan de mejoramiento que realiza el programa de manera continua a las oportunidades de mejoramiento identificadas, a los seis (6) meses antes de cumplirse la mitad de la vigencia de la Acreditación en Alta Calidad del programa académico, el programa deberá enviar desde la Vicedecanatura Académica el Informe de Avance del Seguimiento al Cumplimiento del Plan de Mejoramiento. Desde la DACA se realizará la respectiva radicación del informe de avance del seguimiento al cumplimiento del plan de mejoramiento ante el CNA antes de la mitad de la vigencia de la Acreditación en Alta Calidad, como lo indica el Acuerdo 02 - Guía No. 4. Fase 2.",
+    "pregunta": "¿Ante quién se radica el informe de avance del seguimiento al cumplimiento del plan de mejoramiento?",
+    "respuesta": "ante el CNA",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 23,
+    "chunk_idx": 1,
+    "token_count": 228
+  },
+    {
+    "contexto": "11, que corresponden al modelo de Autoevaluación de la Universidad del Valle: Para el caso de renovación de la acreditación en alta calidad: Fase 1.\nInforme de avance del seguimiento al cumplimiento del plan de mejoramiento De acuerdo con el seguimiento al cumplimiento del plan de mejoramiento que realiza el programa de manera continua a las oportunidades de mejoramiento identificadas, a los seis (6) meses antes de cumplirse la mitad de la vigencia de la Acreditación en Alta Calidad del programa académico, el programa deberá enviar desde la Vicedecanatura Académica el Informe de Avance del Seguimiento al Cumplimiento del Plan de Mejoramiento. Desde la DACA se realizará la respectiva radicación del informe de avance del seguimiento al cumplimiento del plan de mejoramiento ante el CNA antes de la mitad de la vigencia de la Acreditación en Alta Calidad, como lo indica el Acuerdo 02 - Guía No. 4. Fase 2.",
+    "pregunta": "¿De qué trata la fase 1?",
+    "respuesta": " Informe de avance del seguimiento al cumplimiento del plan de mejoramiento",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 23,
+    "chunk_idx": 1,
+    "token_count": 228
+  },
+
+  {
+    "contexto": "n de mejoramiento ante el CNA antes de la mitad de la vigencia de la Acreditación en Alta Calidad, como lo indica el Acuerdo 02 - Guía No. 4. Fase 2.\nConsolidación del seguimiento al cumplimiento del plan de mejoramiento Desde el momento en que el programa académico recibe la resolución que otorga la renovación de acreditación, está atento a las decisiones tomadas y acciones realizadas que permiten evidenciar las modificaciones, cambios y actualizaciones que demuestran los avances del programa hasta el momento de optar nuevamente por la renovación de acreditación. Cada seis (6) meses el programa académico realiza el seguimiento al plan de mejoramiento resultado del proceso de renovación de acreditación, donde se verifican los avances, cambios y alcances obtenidos en los compromisos adquiridos. Fase 3.",
+    "pregunta": "¿Qué se realiza cada seis meses en el programa académico?",
+    "respuesta": "el seguimiento al plan de mejoramiento resultado del proceso de renovación de acreditación",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 23,
+    "chunk_idx": 2,
+    "token_count": 203
+  },
+  {
+    "contexto": "n de mejoramiento ante el CNA antes de la mitad de la vigencia de la Acreditación en Alta Calidad, como lo indica el Acuerdo 02 - Guía No. 4. Fase 2.\nConsolidación del seguimiento al cumplimiento del plan de mejoramiento Desde el momento en que el programa académico recibe la resolución que otorga la renovación de acreditación, está atento a las decisiones tomadas y acciones realizadas que permiten evidenciar las modificaciones, cambios y actualizaciones que demuestran los avances del programa hasta el momento de optar nuevamente por la renovación de acreditación. Cada seis (6) meses el programa académico realiza el seguimiento al plan de mejoramiento resultado del proceso de renovación de acreditación, donde se verifican los avances, cambios y alcances obtenidos en los compromisos adquiridos. Fase 3.",
+    "pregunta": "¿Con qué frecuencia se verifica el cumplimiento del plan de mejoramiento?",
+    "respuesta": "cada seis (6) meses",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 23,
+    "chunk_idx": 2,
+    "token_count": 203
+  },
+
+  {
+    "contexto": "ultado del proceso de renovación de acreditación, donde se verifican los avances, cambios y alcances obtenidos en los compromisos adquiridos. Fase 3.\nFormalización de Inicio del Proceso de Autoevaluación para Renovación de la Acreditación en Alta Calidad ante la DACA El programa académico del Ingeniería de Sistemas solicitó a la DACA, la formalización del proceso de autoevaluación con fines de renovación de acreditación en alta calidad manifestando su intención a través de comunicación escrita, en la cual incluyó el comité de autoevaluación y el cronograma de las actividades proyectadas a un (1) año.",
+    "pregunta": "¿Qué tipo de acreditación busca renovar el programa académico del Ingeniería de Sistemas?",
+    "respuesta": "acreditación en alta calidad",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 23,
+    "chunk_idx": 3,
+    "token_count": 151
+  },
+  {
+    "contexto": "ultado del proceso de renovación de acreditación, donde se verifican los avances, cambios y alcances obtenidos en los compromisos adquiridos. Fase 3.\nFormalización de Inicio del Proceso de Autoevaluación para Renovación de la Acreditación en Alta Calidad ante la DACA El programa académico del Ingeniería de Sistemas solicitó a la DACA, la formalización del proceso de autoevaluación con fines de renovación de acreditación en alta calidad manifestando su intención a través de comunicación escrita, en la cual incluyó el comité de autoevaluación y el cronograma de las actividades proyectadas a un (1) año.",
+    "pregunta": "¿Cómo se manifestó la intención del programa académico del Ingeniería de Sistemas para iniciar el proceso de autoevaluación?",
+    "respuesta": "a través de comunicación escrita",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 23,
+    "chunk_idx": 3,
+    "token_count": 151
+  },
+  {
+    "contexto": "tención a través de comunicación escrita, en la cual incluyó el comité de autoevaluación y el cronograma de las actividades proyectadas a un (1) año. Para aportar a los procesos de calidad académica, la DACA tiene público todo lo referente al proceso de autoevaluación con fines de acreditación de alta calidad en el siguiente enlace: http://daca.univalle.edu.co/?option=com_content&view=article&id=56.",
+    "pregunta": "¿Qué incluyó la comunicación escrita?",
+    "respuesta": "el comité de autoevaluación y el cronograma de las actividades proyectadas a un (1) año",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 23,
+    "chunk_idx": 4,
+    "token_count": 100
+  },
+  {
+    "contexto": "tención a través de comunicación escrita, en la cual incluyó el comité de autoevaluación y el cronograma de las actividades proyectadas a un (1) año. Para aportar a los procesos de calidad académica, la DACA tiene público todo lo referente al proceso de autoevaluación con fines de acreditación de alta calidad en el siguiente enlace: http://daca.univalle.edu.co/?option=com_content&view=article&id=56.",
+    "pregunta": "¿Dónde se puede encontrar la información sobre el proceso de autoevaluación?",
+    "respuesta": "http://daca.univalle.edu.co/?option=com_content&view=article&id=56",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 23,
+    "chunk_idx": 4,
+    "token_count": 100
+  },
+
+  {
+    "contexto": "autoevaluación con fines de acreditación de alta calidad en el siguiente enlace: http://daca.univalle.edu.co/?option=com_content&view=article&id=56. Para dar inicio al proceso, el programa académico conforma equipos de trabajo constituidos por los diferentes estamentos de la comunidad académica (directivos, docentes, estudiantes, personal administrativo, empleadores y egresados) quienes son esenciales para avanzar articuladamente en el desarrollo de las actividades propuestas, su conformación permite compartir experiencias y consolidar la información con el fin de obtener los resultados que ayudaron en el fortalecimiento de una cultura de calidad institucional permanente.",
+    "pregunta": "¿Quiénes participan en los equipos de trabajo para la autoevaluación?",
+    "respuesta": "directivos, docentes, estudiantes, personal administrativo, empleadores y egresados",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 23,
+    "chunk_idx": 5,
+    "token_count": 170
+  },
+  {
+    "contexto": "autoevaluación con fines de acreditación de alta calidad en el siguiente enlace: http://daca.univalle.edu.co/?option=com_content&view=article&id=56. Para dar inicio al proceso, el programa académico conforma equipos de trabajo constituidos por los diferentes estamentos de la comunidad académica (directivos, docentes, estudiantes, personal administrativo, empleadores y egresados) quienes son esenciales para avanzar articuladamente en el desarrollo de las actividades propuestas, su conformación permite compartir experiencias y consolidar la información con el fin de obtener los resultados que ayudaron en el fortalecimiento de una cultura de calidad institucional permanente.",
+    "pregunta": "¿Qué permite la conformación de equipos de trabajo en la autoevaluación?",
+    "respuesta": "compartir experiencias y consolidar la información  con el fin de obtener los resultados que ayudaron en el fortalecimiento de una cultura de calidad institucional permanente. ",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 23,
+    "chunk_idx": 5,
+    "token_count": 170
+  },
+  {
+    "contexto": "Página | 24\n Fase 4.\nDesarrollo del Modelo Metodológico de la autoevaluación El modelo de autoevaluación de la Universidad del Valle incluye: 1) La definición del modelo de autoevaluación, 2) Ponderación de los factores y características, 3) Definición de las fuentes documentales, 4) Definición de las fuentes de opinión, 5) Procesamiento y consolidación de resultados y 6) Calificación global de la calidad del programa. 1) Definición del modelo de la autoevaluación.",
+    "pregunta": "¿Cuántos componentes incluye el modelo de autoevaluación de la Universidad del Valle?",
+    "respuesta": "6",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 24,
+    "chunk_idx": 0,
+    "token_count": 117
+  },
+  {
+    "contexto": "Página | 24\n Fase 4.\nDesarrollo del Modelo Metodológico de la autoevaluación El modelo de autoevaluación de la Universidad del Valle incluye: 1) La definición del modelo de autoevaluación, 2) Ponderación de los factores y características, 3) Definición de las fuentes documentales, 4) Definición de las fuentes de opinión, 5) Procesamiento y consolidación de resultados y 6) Calificación global de la calidad del programa. 1) Definición del modelo de la autoevaluación.",
+    "pregunta": "¿Qué es lo primero que se define en el modelo de autoevaluación?",
+    "respuesta": "La definición del modelo de autoevaluación",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 24,
+    "chunk_idx": 0,
+    "token_count": 117
+  },
+  {
+    "contexto": "Página | 24\n Fase 4.\nDesarrollo del Modelo Metodológico de la autoevaluación El modelo de autoevaluación de la Universidad del Valle incluye: 1) La definición del modelo de autoevaluación, 2) Ponderación de los factores y características, 3) Definición de las fuentes documentales, 4) Definición de las fuentes de opinión, 5) Procesamiento y consolidación de resultados y 6) Calificación global de la calidad del programa. 1) Definición del modelo de la autoevaluación.",
+    "pregunta": "¿En qué fase se desarrolla el modelo metodológico de la autoevaluación?",
+    "respuesta": "Fase 4",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 24,
+    "chunk_idx": 0,
+    "token_count": 117
+  },
+    {
+    "contexto": "Página | 24\n Fase 4.\nDesarrollo del Modelo Metodológico de la autoevaluación El modelo de autoevaluación de la Universidad del Valle incluye: 1) La definición del modelo de autoevaluación, 2) Ponderación de los factores y características, 3) Definición de las fuentes documentales, 4) Definición de las fuentes de opinión, 5) Procesamiento y consolidación de resultados y 6) Calificación global de la calidad del programa. 1) Definición del modelo de la autoevaluación.",
+    "pregunta": "¿Qué incluye el modelo de autoevaluación de la Universidad del Valle?",
+    "respuesta": "1) La definición del modelo de autoevaluación, 2) Ponderación de los factores y características, 3) Definición de las fuentes documentales, 4) Definición de las fuentes de opinión, 5) Procesamiento y consolidación de resultados y 6) Calificación global de la calidad del programa.",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 24,
+    "chunk_idx": 0,
+    "token_count": 117
+  },
+  {
+    "contexto": "n, 5) Procesamiento y consolidación de resultados y 6) Calificación global de la calidad del programa. 1) Definición del modelo de la autoevaluación. El programa académico con base en los lineamientos del Acuerdo 02 de 2020 del CESU identificó los aspectos a evaluar para su proceso de autoevaluación, los cuales fueron definidos por el comité de autoevaluación, seleccionando aquellos que eran pertinentes para el programa de acuerdo con su naturaleza, tipología, identidad y misión institucional. Los factores y características no se modificaron. 2) Ponderación de los factores y características.",
+    "pregunta": "Qué acuerdo del CESU se utilizó como base para el proceso de autoevaluación del programa académico?",
+    "respuesta": "Acuerdo 02 de 2020",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 24,
+    "chunk_idx": 1,
+    "token_count": 149
+  },
+  {
+    "contexto": "n, 5) Procesamiento y consolidación de resultados y 6) Calificación global de la calidad del programa. 1) Definición del modelo de la autoevaluación. El programa académico con base en los lineamientos del Acuerdo 02 de 2020 del CESU identificó los aspectos a evaluar para su proceso de autoevaluación, los cuales fueron definidos por el comité de autoevaluación, seleccionando aquellos que eran pertinentes para el programa de acuerdo con su naturaleza, tipología, identidad y misión institucional. Los factores y características no se modificaron. 2) Ponderación de los factores y características.",
+    "pregunta": "Quién seleccionó los aspectos a evaluar para el proceso de autoevaluación del programa académico?",
+    "respuesta": "el comité de autoevaluación",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 24,
+    "chunk_idx": 1,
+    "token_count": 149
+  },
+  {
+    "contexto": "n, 5) Procesamiento y consolidación de resultados y 6) Calificación global de la calidad del programa. 1) Definición del modelo de la autoevaluación. El programa académico con base en los lineamientos del Acuerdo 02 de 2020 del CESU identificó los aspectos a evaluar para su proceso de autoevaluación, los cuales fueron definidos por el comité de autoevaluación, seleccionando aquellos que eran pertinentes para el programa de acuerdo con su naturaleza, tipología, identidad y misión institucional. Los factores y características no se modificaron. 2) Ponderación de los factores y características.",
+    "pregunta": "Se modificaron los factores y características durante el proceso de autoevaluación?",
+    "respuesta": "No se modificaron",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 24,
+    "chunk_idx": 1,
+    "token_count": 149
+  },
+  {
+    "contexto": "eza, tipología, identidad y misión institucional. Los factores y características no se modificaron. 2) Ponderación de los factores y características. El comité de autoevaluación determinó el grado de importancia que tiene cada factor y característica en el impacto para el funcionamiento y cumplimiento de los objetivos del programa académico, con el fin de jerarquizar y determinar el peso relativo con la meta de lograr la alta calidad. Para la ponderación de factores, el comité de autoevaluación de programa asigna un peso porcentual (%) a cada uno de ellos, de tal forma que la suma de los 12 factores fuera igual a 100%.",
+    "pregunta": "¿Qué es lo que se busca lograr con la ponderación de los factores y características?",
+    "respuesta": "la alta calidad",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 24,
+    "chunk_idx": 2,
+    "token_count": 156
+  },
+  {
+    "contexto": "eza, tipología, identidad y misión institucional. Los factores y características no se modificaron. 2) Ponderación de los factores y características. El comité de autoevaluación determinó el grado de importancia que tiene cada factor y característica en el impacto para el funcionamiento y cumplimiento de los objetivos del programa académico, con el fin de jerarquizar y determinar el peso relativo con la meta de lograr la alta calidad. Para la ponderación de factores, el comité de autoevaluación de programa asigna un peso porcentual (%) a cada uno de ellos, de tal forma que la suma de los 12 factores fuera igual a 100%.",
+    "pregunta": "¿Cuál es el propósito de determinar el grado de importancia de cada factor y característica?",
+    "respuesta": "jerarquizar y determinar el peso relativo  con la meta de lograr la alta calidad.",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 24,
+    "chunk_idx": 2,
+    "token_count": 156
+  },
+  {
+    "contexto": "eza, tipología, identidad y misión institucional. Los factores y características no se modificaron. 2) Ponderación de los factores y características. El comité de autoevaluación determinó el grado de importancia que tiene cada factor y característica en el impacto para el funcionamiento y cumplimiento de los objetivos del programa académico, con el fin de jerarquizar y determinar el peso relativo con la meta de lograr la alta calidad. Para la ponderación de factores, el comité de autoevaluación de programa asigna un peso porcentual (%) a cada uno de ellos, de tal forma que la suma de los 12 factores fuera igual a 100%.",
+    "pregunta": "¿Cuál es el límite porcentual total que deben sumar los 12 factores?",
+    "respuesta": "100%",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 24,
+    "chunk_idx": 2,
+    "token_count": 156
+  },
+  {
+    "contexto": "mité de autoevaluación de programa asigna un peso porcentual (%) a cada uno de ellos, de tal forma que la suma de los 12 factores fuera igual a 100%.\nPara la ponderación de características, el comité de autoevaluación analiza cada una de ellas para asignarles un peso porcentual (%) de tal forma que la suma de las ponderaciones dentro de cada factor fuera igual a 100%.\nLos resultados de estos análisis se condensan en las tablas anexas para cada uno de los 12 factores y las 48 características. 3) Definición de las fuentes documentales y de opinión. Fuentes de información documental: Para definir las fuentes de información documental, se tuvo en cuenta lo mencionado por el CNA en la Guía No. 3 Autoevaluación de programas académicos e instituciones de Educación Superior.",
+    "pregunta": "¿Cómo se asigna el peso porcentual a cada factor en el comité de autoevaluación?",
+    "respuesta": "de tal forma que la suma de los 12 factores fuera igual a 100%",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 24,
+    "chunk_idx": 3,
+    "token_count": 194
+  },
+  {
+    "contexto": "mité de autoevaluación de programa asigna un peso porcentual (%) a cada uno de ellos, de tal forma que la suma de los 12 factores fuera igual a 100%.\nPara la ponderación de características, el comité de autoevaluación analiza cada una de ellas para asignarles un peso porcentual (%) de tal forma que la suma de las ponderaciones dentro de cada factor fuera igual a 100%.\nLos resultados de estos análisis se condensan en las tablas anexas para cada uno de los 12 factores y las 48 características. 3) Definición de las fuentes documentales y de opinión. Fuentes de información documental: Para definir las fuentes de información documental, se tuvo en cuenta lo mencionado por el CNA en la Guía No. 3 Autoevaluación de programas académicos e instituciones de Educación Superior.",
+    "pregunta": "¿Qué guía se utilizó para definir las fuentes de información documental?",
+    "respuesta": "Guía No. 3 Autoevaluación de programas académicos e instituciones de Educación Superior",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 24,
+    "chunk_idx": 3,
+    "token_count": 194
+  },
+  {
+    "contexto": "mité de autoevaluación de programa asigna un peso porcentual (%) a cada uno de ellos, de tal forma que la suma de los 12 factores fuera igual a 100%.\nPara la ponderación de características, el comité de autoevaluación analiza cada una de ellas para asignarles un peso porcentual (%) de tal forma que la suma de las ponderaciones dentro de cada factor fuera igual a 100%.\nLos resultados de estos análisis se condensan en las tablas anexas para cada uno de los 12 factores y las 48 características. 3) Definición de las fuentes documentales y de opinión. Fuentes de información documental: Para definir las fuentes de información documental, se tuvo en cuenta lo mencionado por el CNA en la Guía No. 3 Autoevaluación de programas académicos e instituciones de Educación Superior.",
+    "pregunta": "¿Cuántas características se analizaron para la ponderación?",
+    "respuesta": "48 características",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 24,
+    "chunk_idx": 3,
+    "token_count": 194
+  },
+  {
+    "contexto": "documental, se tuvo en cuenta lo mencionado por el CNA en la Guía No. 3 Autoevaluación de programas académicos e instituciones de Educación Superior.\nLas fuentes documentales, permiten identificar de forma exacta y precisa aquella información relacionada con diversos aspectos de la dinámica institucional, tales como el Proyecto institucional y el proyecto educativo del programa; las políticas, las normas y los reglamentos para el desarrollo de los procesos misionales y de apoyo, la planeación y evaluación institucional, la estructura organizacional, las funciones propias de las diversas unidades, la administración y disponibilidad de recursos financieros, educativos y de infraestructura, los informes de gestión y el estado de desarrollo de la institución en sus aspectos misionales.",
+    "pregunta": "Qué se consideró para la autoevaluación de programas académicos e instituciones de Educación Superior",
+    "respuesta": "lo mencionado por el CNA en la Guía No. 3 Autoevaluación de programas académicos e instituciones de Educación Superior",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 24,
+    "chunk_idx": 4,
+    "token_count": 198
+  },
+  {
+    "contexto": "documental, se tuvo en cuenta lo mencionado por el CNA en la Guía No. 3 Autoevaluación de programas académicos e instituciones de Educación Superior.\nLas fuentes documentales, permiten identificar de forma exacta y precisa aquella información relacionada con diversos aspectos de la dinámica institucional, tales como el Proyecto institucional y el proyecto educativo del programa; las políticas, las normas y los reglamentos para el desarrollo de los procesos misionales y de apoyo, la planeación y evaluación institucional, la estructura organizacional, las funciones propias de las diversas unidades, la administración y disponibilidad de recursos financieros, educativos y de infraestructura, los informes de gestión y el estado de desarrollo de la institución en sus aspectos misionales.",
+    "pregunta": "Qué tipo de información permiten identificar las fuentes documentales",
+    "respuesta": "aquella información relacionada con diversos aspectos de la dinámica institucional",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 24,
+    "chunk_idx": 4,
+    "token_count": 198
+  },
+  {
+    "contexto": "ecursos financieros, educativos y de infraestructura, los informes de gestión y el estado de desarrollo de la institución en sus aspectos misionales.\nLos documentos constituyen la declaración formal de propósitos, compromisos, normas y líneas de acción institucional; en tal sentido, evidencian la filosofía que inspira y motiva las acciones de la comunidad institucional.",
+    "pregunta": "Qué se puede inferir sobre la importancia de los documentos en la institución?",
+    "respuesta": "evidencian la filosofía que inspira y motiva las acciones de la comunidad institucional",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 24,
+    "chunk_idx": 5,
+    "token_count": 93
+  },
+  {
+    "contexto": "Página | 25\n También tienen que ver con la información suministrada por sistemas externos como: SNIES, SPADIES, OLE, entre otros, el Ministerio de Ciencia, Tecnología e Información (GrupLac, CvLac, Publindex), ICFES (Saber Pro y T&T), ICETEX, entre otros. Fuentes de información de opinión: Las fuentes de opinión son los actores del grupo de interés, los miembros de la comunidad académica y del sector externo, responsables y protagonistas de los hechos que son objeto de evaluación y quienes podrán identificar y expresar las fortalezas y oportunidades de mejora.",
+    "pregunta": "¿Qué sistemas externos suministran información e la sección de definición de las fuentes?",
+    "respuesta": "SNIES, SPADIES, OLE, entre otros, el Ministerio de Ciencia, Tecnología e Información (GrupLac, CvLac, Publindex), ICFES (Saber Pro y T&T), ICETEX, entre otros",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 25,
+    "chunk_idx": 0,
+    "token_count": 141
+  },
+  {
+    "contexto": "Página | 25\n También tienen que ver con la información suministrada por sistemas externos como: SNIES, SPADIES, OLE, entre otros, el Ministerio de Ciencia, Tecnología e Información (GrupLac, CvLac, Publindex), ICFES (Saber Pro y T&T), ICETEX, entre otros. Fuentes de información de opinión: Las fuentes de opinión son los actores del grupo de interés, los miembros de la comunidad académica y del sector externo, responsables y protagonistas de los hechos que son objeto de evaluación y quienes podrán identificar y expresar las fortalezas y oportunidades de mejora.",
+    "pregunta": "¿Quiénes son las fuentes de opinión en la evaluación?",
+    "respuesta": "los actores del grupo de interés, los miembros de la comunidad académica y del sector externo, responsables y protagonistas de los hechos que son objeto de evaluación",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 25,
+    "chunk_idx": 0,
+    "token_count": 141
+  },
+  {
+    "contexto": "Página | 25\n También tienen que ver con la información suministrada por sistemas externos como: SNIES, SPADIES, OLE, entre otros, el Ministerio de Ciencia, Tecnología e Información (GrupLac, CvLac, Publindex), ICFES (Saber Pro y T&T), ICETEX, entre otros. Fuentes de información de opinión: Las fuentes de opinión son los actores del grupo de interés, los miembros de la comunidad académica y del sector externo, responsables y protagonistas de los hechos que son objeto de evaluación y quienes podrán identificar y expresar las fortalezas y oportunidades de mejora.",
+    "pregunta": "¿Qué pueden identificar las fuentes de opinión?",
+    "respuesta": "las fortalezas y oportunidades de mejora",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 25,
+    "chunk_idx": 0,
+    "token_count": 141
+  },
+  {
+    "contexto": "onsables y protagonistas de los hechos que son objeto de evaluación y quienes podrán identificar y expresar las fortalezas y oportunidades de mejora.\nLos actores representan roles particulares dentro de la institución y del programa, por lo que es indispensable entender y definir sobre qué asuntos y bajo qué criterios participarán. 4) Aplicación de las encuestas de opinión a los estamentos y valoración de los aspectos documentales Calificación de las fuentes de información documental: Se refiere al cumplimiento en forma cualitativa a través de la revisión documental.",
+    "pregunta": "¿Por qué es importante entender y definir los roles de los actores?",
+    "respuesta": "porque los actores representan roles particulares dentro de la institución y del programa",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 25,
+    "chunk_idx": 1,
+    "token_count": 143
+  },
+  {
+    "contexto": "onsables y protagonistas de los hechos que son objeto de evaluación y quienes podrán identificar y expresar las fortalezas y oportunidades de mejora.\nLos actores representan roles particulares dentro de la institución y del programa, por lo que es indispensable entender y definir sobre qué asuntos y bajo qué criterios participarán. 4) Aplicación de las encuestas de opinión a los estamentos y valoración de los aspectos documentales Calificación de las fuentes de información documental: Se refiere al cumplimiento en forma cualitativa a través de la revisión documental.",
+    "pregunta": "¿A qué se refiere la calificación de las fuentes de información documental?",
+    "respuesta": "al cumplimiento en forma cualitativa a través de la revisión documental",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 25,
+    "chunk_idx": 1,
+    "token_count": 143
+  },
+  {
+    "contexto": "cumentales Calificación de las fuentes de información documental: Se refiere al cumplimiento en forma cualitativa a través de la revisión documental.\nEl comité de autoevaluación (o el evaluador encargado de la condición), posterior a la revisión de los soportes necesarios, generó una calificación cuantitativa dentro de los rangos establecidos sobre el cumplimiento del aspecto por evaluar de acuerdo con la rúbrica de evaluación que se presenta en la Tabla 1 y que permitió valorar los aspectos documentales en 5 criterios, de acuerdo con la escala de valoración a la que corresponde: Tabla 1.",
+    "pregunta": "¿Qué se utiliza para valorar los aspectos documentales?",
+    "respuesta": "la rúbrica de evaluación que se presenta en la Tabla 1",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 25,
+    "chunk_idx": 2,
+    "token_count": 148
+  },
+  {
+    "contexto": "cumentales Calificación de las fuentes de información documental: Se refiere al cumplimiento en forma cualitativa a través de la revisión documental.\nEl comité de autoevaluación (o el evaluador encargado de la condición), posterior a la revisión de los soportes necesarios, generó una calificación cuantitativa dentro de los rangos establecidos sobre el cumplimiento del aspecto por evaluar de acuerdo con la rúbrica de evaluación que se presenta en la Tabla 1 y que permitió valorar los aspectos documentales en 5 criterios, de acuerdo con la escala de valoración a la que corresponde: Tabla 1.",
+    "pregunta": "¿Cuántos criterios se consideran para evaluar los aspectos documentales?",
+    "respuesta": "5 criterios",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 25,
+    "chunk_idx": 2,
+    "token_count": 148
+  },
+  {
+    "contexto": "en la Tabla 1 y que permitió valorar los aspectos documentales en 5 criterios, de acuerdo con la escala de valoración a la que corresponde: Tabla 1.\nRúbrica de evaluación para aspectos documentales. Insatisfactorio 1 - 2.9 Aceptable 3.0 - 3.7 Alto Grado 3.8 - 4.4 Plenamente 4.5 - 5.0 No existen Existen, son poco difundidos, están desactualizados Existen, están difundidos, están actualizados, pero no están completos Existen, están difundidos, están completos y actualizados Fuente: Dirección de Autoevaluación y Calidad Académica.",
+    "pregunta": "¿Cuál es el rango de calificación para un desempeño insatisfactorio en la rúbrica de evaluación?",
+    "respuesta": "Insatisfactorio 1 - 2.9",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 25,
+    "chunk_idx": 3,
+    "token_count": 133
+  },
+  {
+    "contexto": "en la Tabla 1 y que permitió valorar los aspectos documentales en 5 criterios, de acuerdo con la escala de valoración a la que corresponde: Tabla 1.\nRúbrica de evaluación para aspectos documentales. Insatisfactorio 1 - 2.9 Aceptable 3.0 - 3.7 Alto Grado 3.8 - 4.4 Plenamente 4.5 - 5.0 No existen Existen, son poco difundidos, están desactualizados Existen, están difundidos, están actualizados, pero no están completos Existen, están difundidos, están completos y actualizados Fuente: Dirección de Autoevaluación y Calidad Académica.",
+    "pregunta": "¿Qué sucede con los documentos cuando se califica como 'Alto Grado' en la rúbrica de evaluación?",
+    "respuesta": "Existen, están difundidos, están actualizados, pero no están completos",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 25,
+    "chunk_idx": 3,
+    "token_count": 133
+  },
+  {
+    "contexto": "en la Tabla 1 y que permitió valorar los aspectos documentales en 5 criterios, de acuerdo con la escala de valoración a la que corresponde: Tabla 1.\nRúbrica de evaluación para aspectos documentales. Insatisfactorio 1 - 2.9 Aceptable 3.0 - 3.7 Alto Grado 3.8 - 4.4 Plenamente 4.5 - 5.0 No existen Existen, son poco difundidos, están desactualizados Existen, están difundidos, están actualizados, pero no están completos Existen, están difundidos, están completos y actualizados Fuente: Dirección de Autoevaluación y Calidad Académica.",
+    "pregunta": "¿Quién es la fuente de la rúbrica de evaluación para aspectos documentales?",
+    "respuesta": "Dirección de Autoevaluación y Calidad Académica",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 25,
+    "chunk_idx": 3,
+    "token_count": 133
+  },
+  {
+    "contexto": "ualizados, pero no están completos Existen, están difundidos, están completos y actualizados Fuente: Dirección de Autoevaluación y Calidad Académica.\nModelo de Autoevaluación Institucional, 2022 Calificación de las fuentes de información de opinión: para realizar la calificación de la opinión de la comunidad universitaria, se definió la población de quienes serán encuestados, para ello se identificaron los estamentos claves en el proceso y requeridos para encuestar que son Estudiantes, Profesores, Directivos, Personal apoyo administrativo, Graduados, Empleadores. Los resultados que se obtienen a través de la tabulación y procesamiento de las encuestas de opinión que responden los diferentes estamentos y, se presentan en tablas de frecuencia con sus respectivas gráficas, en las cuales se sintetiza la distribución porcentual de las opciones de respuesta para cada pregunta de la encuesta.",
+    "pregunta": "¿Quiénes son los estamentos claves identificados para encuestar en el proceso de calificación de la opinión de la comunidad universitaria?",
+    "respuesta": "Estudiantes, Profesores, Directivos, Personal apoyo administrativo, Graduados, Empleadores",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 25,
+    "chunk_idx": 4,
+    "token_count": 224
+  },
+  {
+    "contexto": "ualizados, pero no están completos Existen, están difundidos, están completos y actualizados Fuente: Dirección de Autoevaluación y Calidad Académica.\nModelo de Autoevaluación Institucional, 2022 Calificación de las fuentes de información de opinión: para realizar la calificación de la opinión de la comunidad universitaria, se definió la población de quienes serán encuestados, para ello se identificaron los estamentos claves en el proceso y requeridos para encuestar que son Estudiantes, Profesores, Directivos, Personal apoyo administrativo, Graduados, Empleadores. Los resultados que se obtienen a través de la tabulación y procesamiento de las encuestas de opinión que responden los diferentes estamentos y, se presentan en tablas de frecuencia con sus respectivas gráficas, en las cuales se sintetiza la distribución porcentual de las opciones de respuesta para cada pregunta de la encuesta.",
+    "pregunta": "¿Cómo se presentan los resultados de las encuestas de opinión?",
+    "respuesta": "en tablas de frecuencia con sus respectivas gráficas",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 25,
+    "chunk_idx": 4,
+    "token_count": 224
+  },
+  {
+    "contexto": "ualizados, pero no están completos Existen, están difundidos, están completos y actualizados Fuente: Dirección de Autoevaluación y Calidad Académica.\nModelo de Autoevaluación Institucional, 2022 Calificación de las fuentes de información de opinión: para realizar la calificación de la opinión de la comunidad universitaria, se definió la población de quienes serán encuestados, para ello se identificaron los estamentos claves en el proceso y requeridos para encuestar que son Estudiantes, Profesores, Directivos, Personal apoyo administrativo, Graduados, Empleadores. Los resultados que se obtienen a través de la tabulación y procesamiento de las encuestas de opinión que responden los diferentes estamentos y, se presentan en tablas de frecuencia con sus respectivas gráficas, en las cuales se sintetiza la distribución porcentual de las opciones de respuesta para cada pregunta de la encuesta.",
+    "pregunta": "¿Qué institución es la fuente del Modelo de Autoevaluación Institucional?",
+    "respuesta": "Dirección de Autoevaluación y Calidad Académica",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 25,
+    "chunk_idx": 4,
+    "token_count": 224
+  },
+  {
+    "contexto": "a con sus respectivas gráficas, en las cuales se sintetiza la distribución porcentual de las opciones de respuesta para cada pregunta de la encuesta.\nPor tanto, se definen algunos criterios para convertir estas tablas de frecuencia a la escala de valoración adoptada.\nLos criterios establecidos varían dependiendo del tipo de escala de medición empleada para las preguntas de la encuesta, las cuales son: escalas dicotómicas y escalas ordinales. 5) Procesamiento y consolidación de resultados.",
+    "pregunta": "¿Qué tipo de escalas de medición se emplean para las preguntas de la encuesta?",
+    "respuesta": "escalas dicotómicas y escalas ordinales",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 25,
+    "chunk_idx": 5,
+    "token_count": 123
+  },
+  {
+    "contexto": "a con sus respectivas gráficas, en las cuales se sintetiza la distribución porcentual de las opciones de respuesta para cada pregunta de la encuesta.\nPor tanto, se definen algunos criterios para convertir estas tablas de frecuencia a la escala de valoración adoptada.\nLos criterios establecidos varían dependiendo del tipo de escala de medición empleada para las preguntas de la encuesta, las cuales son: escalas dicotómicas y escalas ordinales. 5) Procesamiento y consolidación de resultados.",
+    "pregunta": "¿Cuál es el quinto paso en el proceso de análisis de la encuesta?",
+    "respuesta": "5) Procesamiento y consolidación de resultados",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 25,
+    "chunk_idx": 5,
+    "token_count": 123
+  },
+  {
+    "contexto": "|**Insatisfactorio**<br>**1- 2.9**|**Aceptable**<br>**3.0- 3.7**|**Alto Grado**<br>**3.8- 4.4**|**Plenamente**<br>**4.5- 5.0**|\n|---|---|---|---|\n|No existen|Existen, son poco<br>difundidos, están<br>desactualizados|Existen, están<br>difundidos, están<br>actualizados, pero no<br>están completos|Existen, están<br>difundidos, están<br>completos y<br>actualizados|\n\n\n\n",
+    "pregunta": "¿Cuál es el rango de calificación para 'Alto Grado'?",
+    "respuesta": "3.8- 4.4",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "tabla",
+    "page_number": 25,
+    "chunk_idx": 0,
+    "token_count": 91
+  },
+  {
+    "contexto": "|**Insatisfactorio**<br>**1- 2.9**|**Aceptable**<br>**3.0- 3.7**|**Alto Grado**<br>**3.8- 4.4**|**Plenamente**<br>**4.5- 5.0**|\n|---|---|---|---|\n|No existen|Existen, son poco<br>difundidos, están<br>desactualizados|Existen, están<br>difundidos, están<br>actualizados, pero no<br>están completos|Existen, están<br>difundidos, están<br>completos y<br>actualizados|\n\n\n\n",
+    "pregunta": "¿Qué caracteriza la categoría 'Insatisfactorio'?",
+    "respuesta": "No existen",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "tabla",
+    "page_number": 25,
+    "chunk_idx": 0,
+    "token_count": 91
+  },
+  {
+    "contexto": "|**Insatisfactorio**<br>**1- 2.9**|**Aceptable**<br>**3.0- 3.7**|**Alto Grado**<br>**3.8- 4.4**|**Plenamente**<br>**4.5- 5.0**|\n|---|---|---|---|\n|No existen|Existen, son poco<br>difundidos, están<br>desactualizados|Existen, están<br>difundidos, están<br>actualizados, pero no<br>están completos|Existen, están<br>difundidos, están<br>completos y<br>actualizados|\n\n\n\n",
+    "pregunta": "¿Qué significa que los recursos están 'completos y actualizados'?",
+    "respuesta": "que su grado de cumplimiento es 'plenamente'",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "tabla",
+    "page_number": 25,
+    "chunk_idx": 0,
+    "token_count": 91
+  },
+  {
+    "contexto": "Página | 26\n Los criterios que orientan el proceso de calificación del grado de cumplimiento de cada una de las fuentes de información son medidas mediante una escala de valoración categórica que comprende los niveles de cumplimiento: plenamente, alto grado, aceptable e insatisfactorio.\nEsta escala surge de un proceso de calificación numérico, de manera que den cuenta del nivel de calidad que se demuestra en el proceso de autoevaluación. En este sentido, se tiene una escala numérica en el intervalo [1 - 5], la cual está dividida en 4 rangos que corresponden a cada nivel de la escala categórica, como se muestra en la Tabla 2. Tabla 2.",
+    "pregunta": "¿Cuántos niveles de cumplimiento comprende la escala de valoración categórica?",
+    "respuesta": "4 niveles: plenamente, alto grado, aceptable e insatisfactorio",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 26,
+    "chunk_idx": 0,
+    "token_count": 160
+  },
+  {
+    "contexto": "Página | 26\n Los criterios que orientan el proceso de calificación del grado de cumplimiento de cada una de las fuentes de información son medidas mediante una escala de valoración categórica que comprende los niveles de cumplimiento: plenamente, alto grado, aceptable e insatisfactorio.\nEsta escala surge de un proceso de calificación numérico, de manera que den cuenta del nivel de calidad que se demuestra en el proceso de autoevaluación. En este sentido, se tiene una escala numérica en el intervalo [1 - 5], la cual está dividida en 4 rangos que corresponden a cada nivel de la escala categórica, como se muestra en la Tabla 2. Tabla 2.",
+    "pregunta": "¿Qué tipo de escala se utiliza para medir el nivel de calidad en el proceso de autoevaluación?",
+    "respuesta": "una escala numérica en el intervalo [1 - 5]",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 26,
+    "chunk_idx": 0,
+    "token_count": 160
+  },
+  {
+    "contexto": "Página | 26\n Los criterios que orientan el proceso de calificación del grado de cumplimiento de cada una de las fuentes de información son medidas mediante una escala de valoración categórica que comprende los niveles de cumplimiento: plenamente, alto grado, aceptable e insatisfactorio.\nEsta escala surge de un proceso de calificación numérico, de manera que den cuenta del nivel de calidad que se demuestra en el proceso de autoevaluación. En este sentido, se tiene una escala numérica en el intervalo [1 - 5], la cual está dividida en 4 rangos que corresponden a cada nivel de la escala categórica, como se muestra en la Tabla 2. Tabla 2.",
+    "pregunta": "¿En qué se divide la escala numérica?",
+    "respuesta": "4 rangos que corresponden a cada nivel de la escala categórica",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 26,
+    "chunk_idx": 0,
+    "token_count": 160
+  },
+  {
+    "contexto": "l intervalo [1 - 5], la cual está dividida en 4 rangos que corresponden a cada nivel de la escala categórica, como se muestra en la Tabla 2. Tabla 2.\nEquivalentes numéricos a la escala de valoración cualitativa. Grado de cumplimiento Intervalo de Calificación Valor Porcentaje (%) Desde Hasta Desde Hasta Plenamente 4.5 5.0 90 100 Alto Grado 3.8 4.4 76 89 Aceptable 3.0 3.7 60 75 Insatisfactorio 1 2.9 0 59 Fuente: Dirección de Autoevaluación y Calidad Académica.",
+    "pregunta": "¿Cuál es el porcentaje de cumplimiento para un grado de Plenamente?",
+    "respuesta": "90 100",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 26,
+    "chunk_idx": 1,
+    "token_count": 115
+  },
+  {
+    "contexto": "l intervalo [1 - 5], la cual está dividida en 4 rangos que corresponden a cada nivel de la escala categórica, como se muestra en la Tabla 2. Tabla 2.\nEquivalentes numéricos a la escala de valoración cualitativa. Grado de cumplimiento Intervalo de Calificación Valor Porcentaje (%) Desde Hasta Desde Hasta Plenamente 4.5 5.0 90 100 Alto Grado 3.8 4.4 76 89 Aceptable 3.0 3.7 60 75 Insatisfactorio 1 2.9 0 59 Fuente: Dirección de Autoevaluación y Calidad Académica.",
+    "pregunta": "¿Qué nivel de la escala categórica corresponde al intervalo de calificación 3.0 - 3.7?",
+    "respuesta": "Aceptable",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 26,
+    "chunk_idx": 1,
+    "token_count": 115
+  },
+  {
+    "contexto": "l intervalo [1 - 5], la cual está dividida en 4 rangos que corresponden a cada nivel de la escala categórica, como se muestra en la Tabla 2. Tabla 2.\nEquivalentes numéricos a la escala de valoración cualitativa. Grado de cumplimiento Intervalo de Calificación Valor Porcentaje (%) Desde Hasta Desde Hasta Plenamente 4.5 5.0 90 100 Alto Grado 3.8 4.4 76 89 Aceptable 3.0 3.7 60 75 Insatisfactorio 1 2.9 0 59 Fuente: Dirección de Autoevaluación y Calidad Académica.",
+    "pregunta": "¿Cuál es el intervalo de calificación para un grado de cumplimiento Insatisfactorio?",
+    "respuesta": "1 2.9",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 26,
+    "chunk_idx": 1,
+    "token_count": 115
+  },
+  {
+    "contexto": "e 4.5 5.0 90 100 Alto Grado 3.8 4.4 76 89 Aceptable 3.0 3.7 60 75 Insatisfactorio 1 2.9 0 59 Fuente: Dirección de Autoevaluación y Calidad Académica.\nElaboración propia, 2022 Posteriormente, los resultados son condensados en una herramienta de cálculo diseñada por la Universidad del Valle, en donde se asigna una ponderación distribuida de manera uniforme entre las condiciones de calidad, para lograr una valoración del nivel de cumplimiento en cada uno de estos componentes del modelo de autoevaluación. 6) Calificación global de la calidad del programa Los resultados obtenidos de forma parcial con la calificación de las fuentes documentales y de opinión, así como la calificación global se encuentran en escala de 1 - 5 y se agrupan, generando una clasificación visual (esquema de colores) que posteriormente contribuyen a identificar los aspectos de mejoramiento. Fase 5.",
+    "pregunta": "¿Cuál es el rango porcentual de calificación para un desempeño insatisfactorio?",
+    "respuesta": "0 59",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 26,
+    "chunk_idx": 2,
+    "token_count": 219
+  },
+  {
+    "contexto": "e 4.5 5.0 90 100 Alto Grado 3.8 4.4 76 89 Aceptable 3.0 3.7 60 75 Insatisfactorio 1 2.9 0 59 Fuente: Dirección de Autoevaluación y Calidad Académica.\nElaboración propia, 2022 Posteriormente, los resultados son condensados en una herramienta de cálculo diseñada por la Universidad del Valle, en donde se asigna una ponderación distribuida de manera uniforme entre las condiciones de calidad, para lograr una valoración del nivel de cumplimiento en cada uno de estos componentes del modelo de autoevaluación. 6) Calificación global de la calidad del programa Los resultados obtenidos de forma parcial con la calificación de las fuentes documentales y de opinión, así como la calificación global se encuentran en escala de 1 - 5 y se agrupan, generando una clasificación visual (esquema de colores) que posteriormente contribuyen a identificar los aspectos de mejoramiento. Fase 5.",
+    "pregunta": "¿Quién diseñó la herramienta de cálculo para la valoración del nivel de cumplimiento?",
+    "respuesta": "la Universidad del Valle",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 26,
+    "chunk_idx": 2,
+    "token_count": 219
+  },
+  {
+    "contexto": "e agrupan, generando una clasificación visual (esquema de colores) que posteriormente contribuyen a identificar los aspectos de mejoramiento. Fase 5.\nFormulación del plan de mejoramiento resultado del proceso de autoevaluación En el plan de mejoramiento, se identifican las fortalezas y oportunidades de mejora para el programa académico y se plantean estrategias que conlleven al mantenimiento de las fortalezas y mecanismos para superar las oportunidades de mejora. El plan de mejoramiento es un proceso de construcción permanente que se va trabajando durante todo el proceso de autoevaluación, se consolida al finalizar el mismo y va en coherencia con los resultados encontrados en cada una de las condiciones de calidad identificadas como oportunidad de mejora.",
+    "pregunta": "¿Cuál es el objetivo del proceso de autoevaluación en la fase 5?",
+    "respuesta": "Formulación del plan de mejoramiento resultado del proceso de autoevaluación",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 26,
+    "chunk_idx": 3,
+    "token_count": 191
+  },
+  {
+    "contexto": "e agrupan, generando una clasificación visual (esquema de colores) que posteriormente contribuyen a identificar los aspectos de mejoramiento. Fase 5.\nFormulación del plan de mejoramiento resultado del proceso de autoevaluación En el plan de mejoramiento, se identifican las fortalezas y oportunidades de mejora para el programa académico y se plantean estrategias que conlleven al mantenimiento de las fortalezas y mecanismos para superar las oportunidades de mejora. El plan de mejoramiento es un proceso de construcción permanente que se va trabajando durante todo el proceso de autoevaluación, se consolida al finalizar el mismo y va en coherencia con los resultados encontrados en cada una de las condiciones de calidad identificadas como oportunidad de mejora.",
+    "pregunta": "¿Qué se identifica en el plan de mejoramiento?",
+    "respuesta": "las fortalezas y oportunidades de mejora para el programa académico",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 26,
+    "chunk_idx": 3,
+    "token_count": 191
+  },
+  {
+    "contexto": "e agrupan, generando una clasificación visual (esquema de colores) que posteriormente contribuyen a identificar los aspectos de mejoramiento. Fase 5.\nFormulación del plan de mejoramiento resultado del proceso de autoevaluación En el plan de mejoramiento, se identifican las fortalezas y oportunidades de mejora para el programa académico y se plantean estrategias que conlleven al mantenimiento de las fortalezas y mecanismos para superar las oportunidades de mejora. El plan de mejoramiento es un proceso de construcción permanente que se va trabajando durante todo el proceso de autoevaluación, se consolida al finalizar el mismo y va en coherencia con los resultados encontrados en cada una de las condiciones de calidad identificadas como oportunidad de mejora.",
+    "pregunta": "¿Qué sucede con el plan de mejoramiento durante el proceso de autoevaluación?",
+    "respuesta": "es un proceso de construcción permanente que se va trabajando durante todo el proceso de autoevaluación",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 26,
+    "chunk_idx": 3,
+    "token_count": 191
+  },
+  {
+    "contexto": "alizar el mismo y va en coherencia con los resultados encontrados en cada una de las condiciones de calidad identificadas como oportunidad de mejora. Para su desarrollo existe una Herramienta de seguimiento al cumplimiento al plan de mejoramiento- HSCPM, que es aplicada a los programas académicos cuya fase inicial corresponde a la formulación del plan de mejoramiento, en la cual se definen: factor, el programa asociado al Plan Estratégico de Desarrollo de la Universidad que apoya el factor, la oportunidad de mejoramiento la cual debe ser coherente con las oportunidades de mejora",
+    "pregunta": "¿Qué herramienta se utiliza para el seguimiento del cumplimiento del plan de mejoramiento?",
+    "respuesta": "Herramienta de seguimiento al cumplimiento al plan de mejoramiento- HSCPM",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 26,
+    "chunk_idx": 4,
+    "token_count": 146
+  },
+  {
+    "contexto": "alizar el mismo y va en coherencia con los resultados encontrados en cada una de las condiciones de calidad identificadas como oportunidad de mejora. Para su desarrollo existe una Herramienta de seguimiento al cumplimiento al plan de mejoramiento- HSCPM, que es aplicada a los programas académicos cuya fase inicial corresponde a la formulación del plan de mejoramiento, en la cual se definen: factor, el programa asociado al Plan Estratégico de Desarrollo de la Universidad que apoya el factor, la oportunidad de mejoramiento la cual debe ser coherente con las oportunidades de mejora",
+    "pregunta": "¿En qué fase se definen los factores y oportunidades de mejoramiento?",
+    "respuesta": "la fase inicial",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 26,
+    "chunk_idx": 4,
+    "token_count": 146
+  },
+  {
+    "contexto": "|**Grado de cumplimiento**|**Intervalo de Calificación**|**Intervalo de Calificación**|**Valor Porcentaje (%)**|**Valor Porcentaje (%)**|\n|---|---|---|---|---|\n||**Desde**|**Hasta**|**Desde**|**Hasta**|\n|Plenamente|4.5|5.0|90|100|\n|Alto Grado|3.8|4.4|76|89|\n|Aceptable|3.0|3.7|60|75|\n|Insatisfactorio|1|2.9|0|59|\n\n\n\n",
+    "pregunta": "¿Cuál es el rango de calificación para un grado de cumplimiento plenamente?",
+    "respuesta": "4.5-5.0",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "tabla",
+    "page_number": 26,
+    "chunk_idx": 0,
+    "token_count": 79
+  },
+  {
+    "contexto": "|**Grado de cumplimiento**|**Intervalo de Calificación**|**Intervalo de Calificación**|**Valor Porcentaje (%)**|**Valor Porcentaje (%)**|\n|---|---|---|---|---|\n||**Desde**|**Hasta**|**Desde**|**Hasta**|\n|Plenamente|4.5|5.0|90|100|\n|Alto Grado|3.8|4.4|76|89|\n|Aceptable|3.0|3.7|60|75|\n|Insatisfactorio|1|2.9|0|59|\n\n\n\n",
+    "pregunta": "¿Qué porcentaje de valor se considera insatisfactorio?",
+    "respuesta": "0-59",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "tabla",
+    "page_number": 26,
+    "chunk_idx": 0,
+    "token_count": 79
+  },
+  {
+    "contexto": "|**Grado de cumplimiento**|**Intervalo de Calificación**|**Intervalo de Calificación**|**Valor Porcentaje (%)**|**Valor Porcentaje (%)**|\n|---|---|---|---|---|\n||**Desde**|**Hasta**|**Desde**|**Hasta**|\n|Plenamente|4.5|5.0|90|100|\n|Alto Grado|3.8|4.4|76|89|\n|Aceptable|3.0|3.7|60|75|\n|Insatisfactorio|1|2.9|0|59|\n\n\n\n",
+    "pregunta": "¿Cuál es el límite inferior de calificación para un grado de cumplimiento aceptable?",
+    "respuesta": "3.0",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "tabla",
+    "page_number": 26,
+    "chunk_idx": 0,
+    "token_count": 79
+  },
+  {
+    "contexto": "Página | 27\n identificadas por el programa académico en el proceso de autoevaluación,  un peso para cada actividad a partir de una escala de 1 a 100, las acciones o actividades conducentes a mejorar la oportunidad identificada, el indicador, el valor de inicio que corresponde al valor que tiene el indicador al momento de su análisis, las metas esperadas, con sus fechas de inicio y finalización, la descripción de la meta donde se explica lo que se espera lograr, el responsable y los recursos.",
+    "pregunta": "Qué tipo de escala se utiliza para asignar un peso a cada actividad en el proceso de autoevaluación?",
+    "respuesta": "una escala de 1 a 100",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 27,
+    "chunk_idx": 0,
+    "token_count": 124
+  },
+  {
+    "contexto": "Página | 27\n identificadas por el programa académico en el proceso de autoevaluación,  un peso para cada actividad a partir de una escala de 1 a 100, las acciones o actividades conducentes a mejorar la oportunidad identificada, el indicador, el valor de inicio que corresponde al valor que tiene el indicador al momento de su análisis, las metas esperadas, con sus fechas de inicio y finalización, la descripción de la meta donde se explica lo que se espera lograr, el responsable y los recursos.",
+    "pregunta": "Qué valor se utiliza como referencia inicial para el indicador en el análisis?",
+    "respuesta": "el valor que tiene el indicador al momento de su análisis",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 27,
+    "chunk_idx": 0,
+    "token_count": 124
+  },
+  {
+    "contexto": "speradas, con sus fechas de inicio y finalización, la descripción de la meta donde se explica lo que se espera lograr, el responsable y los recursos. Para tener resultados efectivos, se ha ido generando una cultura de autoevaluación y mejoramiento permanente que permite plasmar las oportunidades de mejoramiento en objetivos claros y alcanzables, registrar adecuadamente los datos y hacer seguimiento permanente, de tal manera que se registra la gestión y actividades que realiza el programa para el cumplimiento de sus planes para garantizar el mejoramiento continuo. Fase 6.",
+    "pregunta": "Qué permite plasmar las oportunidades de mejoramiento en objetivos claros y alcanzables?",
+    "respuesta": "una cultura de autoevaluación y mejoramiento permanente",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 27,
+    "chunk_idx": 1,
+    "token_count": 144
+  },
+  {
+    "contexto": "speradas, con sus fechas de inicio y finalización, la descripción de la meta donde se explica lo que se espera lograr, el responsable y los recursos. Para tener resultados efectivos, se ha ido generando una cultura de autoevaluación y mejoramiento permanente que permite plasmar las oportunidades de mejoramiento en objetivos claros y alcanzables, registrar adecuadamente los datos y hacer seguimiento permanente, de tal manera que se registra la gestión y actividades que realiza el programa para el cumplimiento de sus planes para garantizar el mejoramiento continuo. Fase 6.",
+    "pregunta": "Qué se registra para garantizar el mejoramiento continuo?",
+    "respuesta": "la gestión y actividades que realiza el programa para el cumplimiento de sus planes",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 27,
+    "chunk_idx": 1,
+    "token_count": 144
+  },
+
+  {
+    "contexto": "que se registra la gestión y actividades que realiza el programa para el cumplimiento de sus planes para garantizar el mejoramiento continuo. Fase 6.\nConsolidación de resultados de la autoevaluación Finalmente, con los insumos del proceso y los ajustes a los que hubo lugar se consolidó el informe de autoevaluación, siguiendo el esquema suministrado por la DACA que articula los elementos institucionales necesarios para su radicación ante el CNA. Una vez el programa académico realizó el proceso de autoevaluación para acreditación en alta calidad, remitió a la DACA a través de la vicedecanatura académica de la Facultad, los documentos y formatos que soportaron el proceso de autoevaluación (después de las revisiones y presentaciones en los cuerpos colegiados correspondientes). Fase 7.",
+    "pregunta": "¿En qué fase se menciona la Consolidación de resultados de la autoevaluación",
+    "respuesta": "Fase 6",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 27,
+    "chunk_idx": 2,
+    "token_count": 197
+  },
+  {
+    "contexto": "que se registra la gestión y actividades que realiza el programa para el cumplimiento de sus planes para garantizar el mejoramiento continuo. Fase 6.\nConsolidación de resultados de la autoevaluación Finalmente, con los insumos del proceso y los ajustes a los que hubo lugar se consolidó el informe de autoevaluación, siguiendo el esquema suministrado por la DACA que articula los elementos institucionales necesarios para su radicación ante el CNA. Una vez el programa académico realizó el proceso de autoevaluación para acreditación en alta calidad, remitió a la DACA a través de la vicedecanatura académica de la Facultad, los documentos y formatos que soportaron el proceso de autoevaluación (después de las revisiones y presentaciones en los cuerpos colegiados correspondientes). Fase 7.",
+    "pregunta": "¿Qué organismo recibe los documentos y formatos que soportaron el proceso de autoevaluación?",
+    "respuesta": "DACA",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 27,
+    "chunk_idx": 2,
+    "token_count": 197
+  },
+  {
+    "contexto": "que se registra la gestión y actividades que realiza el programa para el cumplimiento de sus planes para garantizar el mejoramiento continuo. Fase 6.\nConsolidación de resultados de la autoevaluación Finalmente, con los insumos del proceso y los ajustes a los que hubo lugar se consolidó el informe de autoevaluación, siguiendo el esquema suministrado por la DACA que articula los elementos institucionales necesarios para su radicación ante el CNA. Una vez el programa académico realizó el proceso de autoevaluación para acreditación en alta calidad, remitió a la DACA a través de la vicedecanatura académica de la Facultad, los documentos y formatos que soportaron el proceso de autoevaluación (después de las revisiones y presentaciones en los cuerpos colegiados correspondientes). Fase 7.",
+    "pregunta": "¿A través de qué dependencia se remitieron los documentos y formatos a la DACA?",
+    "respuesta": "vicedecanatura académica de la Facultad",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 27,
+    "chunk_idx": 2,
+    "token_count": 197
+  },
+  {
+    "contexto": "formatos que soportaron el proceso de autoevaluación (después de las revisiones y presentaciones en los cuerpos colegiados correspondientes). Fase 7.\nRadicación en CNA La DACA realizó una revisión de los documentos, solicitó la información necesaria para complementar datos y radicó la solicitud de autoevaluación con fines de acreditación ante el CNA junto con la información que evidenció el cumplimiento de los 12 factores y las 48 características. La radicación de la documentación es verificada por el CNA. La DACA verificó la aceptación de la radicación e informó al programa académico los avances del proceso. Fase 8 a la 11.",
+    "pregunta": "¿Cuántos factores se debían cumplir para la acreditación?",
+    "respuesta": "12 factores",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 27,
+    "chunk_idx": 3,
+    "token_count": 158
+  },
+  {
+    "contexto": "formatos que soportaron el proceso de autoevaluación (después de las revisiones y presentaciones en los cuerpos colegiados correspondientes). Fase 7.\nRadicación en CNA La DACA realizó una revisión de los documentos, solicitó la información necesaria para complementar datos y radicó la solicitud de autoevaluación con fines de acreditación ante el CNA junto con la información que evidenció el cumplimiento de los 12 factores y las 48 características. La radicación de la documentación es verificada por el CNA. La DACA verificó la aceptación de la radicación e informó al programa académico los avances del proceso. Fase 8 a la 11.",
+    "pregunta": "¿Qué organismo verificó la radicación de la documentación?",
+    "respuesta": "el CNA",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 27,
+    "chunk_idx": 3,
+    "token_count": 158
+  },
+  {
+    "contexto": "formatos que soportaron el proceso de autoevaluación (después de las revisiones y presentaciones en los cuerpos colegiados correspondientes). Fase 7.\nRadicación en CNA La DACA realizó una revisión de los documentos, solicitó la información necesaria para complementar datos y radicó la solicitud de autoevaluación con fines de acreditación ante el CNA junto con la información que evidenció el cumplimiento de los 12 factores y las 48 características. La radicación de la documentación es verificada por el CNA. La DACA verificó la aceptación de la radicación e informó al programa académico los avances del proceso. Fase 8 a la 11.",
+    "pregunta": "¿Cuál es el propósito de la radicación de la solicitud de autoevaluación ante el CNA?",
+    "respuesta": "con fines de acreditación en alta calidad",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 27,
+    "chunk_idx": 3,
+    "token_count": 158
+  },
+  {
+    "contexto": "ón es verificada por el CNA. La DACA verificó la aceptación de la radicación e informó al programa académico los avances del proceso. Fase 8 a la 11.\nEvaluación externa Estas fases corresponden al proceso de evaluación externa cuya responsabilidad es del Consejo Nacional de Acreditación- CNA y el Ministerio de Educación Nacional- MEN. Fase 12.",
+    "pregunta": "Quién es el responsable de la evaluación externa en el proceso de acreditación",
+    "respuesta": "Consejo Nacional de Acreditación- CNA y el Ministerio de Educación Nacional- MEN",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 27,
+    "chunk_idx": 4,
+    "token_count": 86
+  },
+  {
+    "contexto": "ón es verificada por el CNA. La DACA verificó la aceptación de la radicación e informó al programa académico los avances del proceso. Fase 8 a la 11.\nEvaluación externa Estas fases corresponden al proceso de evaluación externa cuya responsabilidad es del Consejo Nacional de Acreditación- CNA y el Ministerio de Educación Nacional- MEN. Fase 12.",
+    "pregunta": "En qué fase se encuentra el proceso de evaluación externa",
+    "respuesta": "Fase 11",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 27,
+    "chunk_idx": 4,
+    "token_count": 86
+  },
+  {
+    "contexto": "ón es verificada por el CNA. La DACA verificó la aceptación de la radicación e informó al programa académico los avances del proceso. Fase 8 a la 11.\nEvaluación externa Estas fases corresponden al proceso de evaluación externa cuya responsabilidad es del Consejo Nacional de Acreditación- CNA y el Ministerio de Educación Nacional- MEN. Fase 12.",
+    "pregunta": "Qué instituciones participan en el proceso de evaluación externa",
+    "respuesta": "Consejo Nacional de Acreditación- CNA y el Ministerio de Educación Nacional- MEN",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 27,
+    "chunk_idx": 4,
+    "token_count": 86
+  },
+  {
+    "contexto": "proceso de evaluación externa cuya responsabilidad es del Consejo Nacional de Acreditación- CNA y el Ministerio de Educación Nacional- MEN. Fase 12.\nRediseño y seguimiento al cumplimiento al plan de mejoramiento Finalmente en la fase 12 se realiza el seguimiento al plan de mejoramiento a través de un proceso de formalización del plan resultado de la autoevaluación, que incluyó junto con las oportunidades de mejoramiento identificadas en el proceso de autoevaluación, las recomendaciones de los pares en el informe de evaluación externa, las observaciones realizadas por el programa a dicho informe (en caso de haberlas realizado) y las recomendaciones consignadas en la resolución expedida por el Ministerio de Educación Nacional que otorgó la acreditación del programa.",
+    "pregunta": "¿Quién es responsable del proceso de evaluación externa?",
+    "respuesta": "Consejo Nacional de Acreditación- CNA y el Ministerio de Educación Nacional- MEN",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 27,
+    "chunk_idx": 5,
+    "token_count": 193
+  },
+  {
+    "contexto": "proceso de evaluación externa cuya responsabilidad es del Consejo Nacional de Acreditación- CNA y el Ministerio de Educación Nacional- MEN. Fase 12.\nRediseño y seguimiento al cumplimiento al plan de mejoramiento Finalmente en la fase 12 se realiza el seguimiento al plan de mejoramiento a través de un proceso de formalización del plan resultado de la autoevaluación, que incluyó junto con las oportunidades de mejoramiento identificadas en el proceso de autoevaluación, las recomendaciones de los pares en el informe de evaluación externa, las observaciones realizadas por el programa a dicho informe (en caso de haberlas realizado) y las recomendaciones consignadas en la resolución expedida por el Ministerio de Educación Nacional que otorgó la acreditación del programa.",
+    "pregunta": "¿Qué se realiza en la fase 12 del proceso de acreditación?",
+    "respuesta": "Rediseño y seguimiento al cumplimiento al plan de mejoramiento",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 27,
+    "chunk_idx": 5,
+    "token_count": 193
+  },
+  {
+    "contexto": "proceso de evaluación externa cuya responsabilidad es del Consejo Nacional de Acreditación- CNA y el Ministerio de Educación Nacional- MEN. Fase 12.\nRediseño y seguimiento al cumplimiento al plan de mejoramiento Finalmente en la fase 12 se realiza el seguimiento al plan de mejoramiento a través de un proceso de formalización del plan resultado de la autoevaluación, que incluyó junto con las oportunidades de mejoramiento identificadas en el proceso de autoevaluación, las recomendaciones de los pares en el informe de evaluación externa, las observaciones realizadas por el programa a dicho informe (en caso de haberlas realizado) y las recomendaciones consignadas en la resolución expedida por el Ministerio de Educación Nacional que otorgó la acreditación del programa.",
+    "pregunta": "¿Qué incluye el plan de mejoramiento en la fase 12?",
+    "respuesta": "las oportunidades de mejoramiento identificadas en el proceso de autoevaluación, las recomendaciones de los pares en el informe de evaluación externa, las observaciones realizadas por el programa a dicho informe y las recomendaciones consignadas en la resolución expedida por el Ministerio de Educación Nacional",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 27,
+    "chunk_idx": 5,
+    "token_count": 193
+  },
+  {
+    "contexto": "alizado) y las recomendaciones consignadas en la resolución expedida por el Ministerio de Educación Nacional que otorgó la acreditación del programa.\nY el proceso continúa en un ciclo de mejoramiento permanente con el Seguimiento al Cumplimiento al plan de mejoramiento.",
+    "pregunta": "Qué proceso continúa en un ciclo de mejoramiento permanente?",
+    "respuesta": "el Seguimiento al Cumplimiento al plan de mejoramiento",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 27,
+    "chunk_idx": 6,
+    "token_count": 67
+  },
+  {
+    "contexto": "alizado) y las recomendaciones consignadas en la resolución expedida por el Ministerio de Educación Nacional que otorgó la acreditación del programa.\nY el proceso continúa en un ciclo de mejoramiento permanente con el Seguimiento al Cumplimiento al plan de mejoramiento.",
+    "pregunta": "Quién otorgó la acreditación del programa?",
+    "respuesta": "el Ministerio de Educación Nacional",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 27,
+    "chunk_idx": 6,
+    "token_count": 67
+  },
+  {
+    "contexto": "Página | 28\n  4.\nInformación del Programa 4.1. Facultad de Ingeniería La Facultad de Ingeniería, creada en 1945 mediante la Ordenanza No. 12 del 11 de junio de la Asamblea del Departamento del Valle del Cauca, está compuesta por la Decanatura, la Vicedecanatura de Investigación, la Vicedecanatura Académica, la Dirección de Posgrados, diez escuelas y un instituto.\nLas escuelas son: ● Escuela de Ingeniería de Sistemas y Computación (EISC) ● Escuela de Ingeniería de Alimentos (EIA) ● Escuela de Ingeniería Civil y Geométrica ● Escuela de Ingeniería Eléctrica y Electrónica (EIEE) ● Escuela de Ingeniería Industrial (EII) ● Escuela de Ingeniería de Materiales (EIMAT) ● Escuela de Ingeniería Química ● Escuela de Ingeniería de Recursos Naturales y del Ambiente (EIDENAR) ● Escuela de Estadística ●",
+    "pregunta": "¿En qué año se creó la Facultad de Ingeniería?",
+    "respuesta": "1945",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 28,
+    "chunk_idx": 0,
+    "token_count": 199
+  },
+
+  {
+    "contexto": "Página | 28\n  4.\nInformación del Programa 4.1. Facultad de Ingeniería La Facultad de Ingeniería, creada en 1945 mediante la Ordenanza No. 12 del 11 de junio de la Asamblea del Departamento del Valle del Cauca, está compuesta por la Decanatura, la Vicedecanatura de Investigación, la Vicedecanatura Académica, la Dirección de Posgrados, diez escuelas y un instituto.\nLas escuelas son: ● Escuela de Ingeniería de Sistemas y Computación (EISC) ● Escuela de Ingeniería de Alimentos (EIA) ● Escuela de Ingeniería Civil y Geométrica ● Escuela de Ingeniería Eléctrica y Electrónica (EIEE) ● Escuela de Ingeniería Industrial (EII) ● Escuela de Ingeniería de Materiales (EIMAT) ● Escuela de Ingeniería Química ● Escuela de Ingeniería de Recursos Naturales y del Ambiente (EIDENAR) ● Escuela de Estadística ●",
+    "pregunta": "¿Cuántas escuelas tiene la Facultad de Ingeniería?",
+    "respuesta": "diez",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 28,
+    "chunk_idx": 0,
+    "token_count": 199
+  },
+  {
+    "contexto": "Materiales (EIMAT) ● Escuela de Ingeniería Química ● Escuela de Ingeniería de Recursos Naturales y del Ambiente (EIDENAR) ● Escuela de Estadística ● Escuela de Ingeniería Mecánica (EIME) ● Instituto CINARA Estas escuelas gestionan un total de 29 programas tecnológicos (5 en la sede Meléndez y 24 en otras sedes regionales), 20 programas profesionales (Cali 13 y Sedes 7), 11 programas de especialización, 14 programas de maestría (una de ellas genérica con 11 diferentes énfasis), y 5 programas de doctorado (uno de ellos genérico con 8 énfasis y otro de carácter interinstitucional e interfacultades). Actualmente, la Facultad de Ingeniería es la más grande del suroccidente colombiano en términos de tamaño, cantidad de estudiantes y programas académicos.",
+    "pregunta": "¿Cuántos programas tecnológicos se gestionan en total?",
+    "respuesta": "29 programas tecnológicos",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 28,
+    "chunk_idx": 1,
+    "token_count": 189
+  },
+  {
+    "contexto": "Materiales (EIMAT) ● Escuela de Ingeniería Química ● Escuela de Ingeniería de Recursos Naturales y del Ambiente (EIDENAR) ● Escuela de Estadística ● Escuela de Ingeniería Mecánica (EIME) ● Instituto CINARA Estas escuelas gestionan un total de 29 programas tecnológicos (5 en la sede Meléndez y 24 en otras sedes regionales), 20 programas profesionales (Cali 13 y Sedes 7), 11 programas de especialización, 14 programas de maestría (una de ellas genérica con 11 diferentes énfasis), y 5 programas de doctorado (uno de ellos genérico con 8 énfasis y otro de carácter interinstitucional e interfacultades). Actualmente, la Facultad de Ingeniería es la más grande del suroccidente colombiano en términos de tamaño, cantidad de estudiantes y programas académicos.",
+    "pregunta": "¿Cuál es la cantidad de programas de maestría?",
+    "respuesta": "14 programas de maestría  (una de ellas genérica con 11 diferentes énfasis)",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 28,
+    "chunk_idx": 1,
+    "token_count": 189
+  },
+  {
+    "contexto": "Materiales (EIMAT) ● Escuela de Ingeniería Química ● Escuela de Ingeniería de Recursos Naturales y del Ambiente (EIDENAR) ● Escuela de Estadística ● Escuela de Ingeniería Mecánica (EIME) ● Instituto CINARA Estas escuelas gestionan un total de 29 programas tecnológicos (5 en la sede Meléndez y 24 en otras sedes regionales), 20 programas profesionales (Cali 13 y Sedes 7), 11 programas de especialización, 14 programas de maestría (una de ellas genérica con 11 diferentes énfasis), y 5 programas de doctorado (uno de ellos genérico con 8 énfasis y otro de carácter interinstitucional e interfacultades). Actualmente, la Facultad de Ingeniería es la más grande del suroccidente colombiano en términos de tamaño, cantidad de estudiantes y programas académicos.",
+    "pregunta": "¿Cuántos énfasis tiene el programa de doctorado genérico?",
+    "respuesta": "8 énfasis",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 28,
+    "chunk_idx": 1,
+    "token_count": 189
+  },
+  {
+    "contexto": "lmente, la Facultad de Ingeniería es la más grande del suroccidente colombiano en términos de tamaño, cantidad de estudiantes y programas académicos.\nAdemás, cuenta con 30 programas de posgrado en niveles de especialización, maestría y doctorado. Muchos de estos programas están acreditados en alta calidad.\nLa Facultad cuenta con 73 laboratorios y 48 grupos de investigación reconocidos por el Ministerio de Educación Nacional.",
+    "pregunta": "¿Cuántos programas de posgrado ofrece la Facultad de Ingeniería?",
+    "respuesta": "30 programas de posgrado",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 28,
+    "chunk_idx": 2,
+    "token_count": 107
+  },
+  {
+    "contexto": "lmente, la Facultad de Ingeniería es la más grande del suroccidente colombiano en términos de tamaño, cantidad de estudiantes y programas académicos.\nAdemás, cuenta con 30 programas de posgrado en niveles de especialización, maestría y doctorado. Muchos de estos programas están acreditados en alta calidad.\nLa Facultad cuenta con 73 laboratorios y 48 grupos de investigación reconocidos por el Ministerio de Educación Nacional.",
+    "pregunta": "¿Qué niveles de estudios de posgrado ofrece la Facultad de Ingeniería?",
+    "respuesta": "niveles de especialización, maestría y doctorado",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 28,
+    "chunk_idx": 2,
+    "token_count": 107
+  },
+  {
+    "contexto": "lmente, la Facultad de Ingeniería es la más grande del suroccidente colombiano en términos de tamaño, cantidad de estudiantes y programas académicos.\nAdemás, cuenta con 30 programas de posgrado en niveles de especialización, maestría y doctorado. Muchos de estos programas están acreditados en alta calidad.\nLa Facultad cuenta con 73 laboratorios y 48 grupos de investigación reconocidos por el Ministerio de Educación Nacional.",
+    "pregunta": "¿Cuántos laboratorios tiene la Facultad de Ingeniería?",
+    "respuesta": "73 laboratorios",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 28,
+    "chunk_idx": 2,
+    "token_count": 107
+  },
+  {
+    "contexto": "acreditados en alta calidad.\nLa Facultad cuenta con 73 laboratorios y 48 grupos de investigación reconocidos por el Ministerio de Educación Nacional.\nAsimismo, ha sido miembro fundador de la Asociación Colombiana de Facultades de Ingeniería (ACOFI). La Facultad de Ingeniería de la Universidad del Valle es reconocida por su espíritu de innovación, competitividad, visión y prestigio tanto a nivel nacional como internacional. Está en constante fortalecimiento de su docencia e investigación, consolidación de sus programas de posgrado y diversificación de sus carreras.",
+    "pregunta": "¿Qué tipo de espíritu caracteriza a la Facultad de Ingeniería?",
+    "respuesta": "espíritu de innovación, competitividad, visión y prestigio",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 28,
+    "chunk_idx": 3,
+    "token_count": 142
+  },
+  {
+    "contexto": "acreditados en alta calidad.\nLa Facultad cuenta con 73 laboratorios y 48 grupos de investigación reconocidos por el Ministerio de Educación Nacional.\nAsimismo, ha sido miembro fundador de la Asociación Colombiana de Facultades de Ingeniería (ACOFI). La Facultad de Ingeniería de la Universidad del Valle es reconocida por su espíritu de innovación, competitividad, visión y prestigio tanto a nivel nacional como internacional. Está en constante fortalecimiento de su docencia e investigación, consolidación de sus programas de posgrado y diversificación de sus carreras.",
+    "pregunta": "¿De qué asociación es miembro fundador la Facultad de Ingeniería?",
+    "respuesta": "Asociación Colombiana de Facultades de Ingeniería (ACOFI)",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 28,
+    "chunk_idx": 3,
+    "token_count": 142
+  },
+  {
+    "contexto": "Página | 29\n Con más de seis décadas de historia, la Facultad ha contribuido y continúa aportando al crecimiento y desarrollo industrial, tecnológico y de infraestructura de la región y del país. Misión La Facultad de Ingeniería forma a nivel superior profesionales integrales y éticos, fundamentados en sostenibilidad, equidad y proyección social, promoviendo la investigación, el desarrollo tecnológico y la innovación para mejorar la calidad de vida y el desarrollo de la región y del país en un ambiente globalizado. Visión La Facultad de Ingeniería será un referente nacional y mejorará su reconocimiento en América Latina por la búsqueda de soluciones sostenibles que contribuyan a mejorar la calidad de vida en el país a través del cumplimiento de su misión. 4.2.",
+    "pregunta": "¿Cuál es la misión de la Facultad de Ingeniería?",
+    "respuesta": "La Facultad de Ingeniería forma a nivel superior profesionales integrales y éticos, fundamentados en sostenibilidad, equidad y proyección social, promoviendo la investigación, el desarrollo tecnológico y la innovación para mejorar la calidad de vida y el desarrollo de la región y del país en un ambiente globalizado.",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 29,
+    "chunk_idx": 0,
+    "token_count": 192
+  },
+  {
+    "contexto": "Página | 29\n Con más de seis décadas de historia, la Facultad ha contribuido y continúa aportando al crecimiento y desarrollo industrial, tecnológico y de infraestructura de la región y del país. Misión La Facultad de Ingeniería forma a nivel superior profesionales integrales y éticos, fundamentados en sostenibilidad, equidad y proyección social, promoviendo la investigación, el desarrollo tecnológico y la innovación para mejorar la calidad de vida y el desarrollo de la región y del país en un ambiente globalizado. Visión La Facultad de Ingeniería será un referente nacional y mejorará su reconocimiento en América Latina por la búsqueda de soluciones sostenibles que contribuyan a mejorar la calidad de vida en el país a través del cumplimiento de su misión. 4.2.",
+    "pregunta": "¿Qué busca lograr la Facultad de Ingeniería en el ámbito regional y nacional?",
+    "respuesta": "mejorar la calidad de vida y el desarrollo de la región y del país",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 29,
+    "chunk_idx": 0,
+    "token_count": 192
+  },
+  {
+    "contexto": "Página | 29\n Con más de seis décadas de historia, la Facultad ha contribuido y continúa aportando al crecimiento y desarrollo industrial, tecnológico y de infraestructura de la región y del país. Misión La Facultad de Ingeniería forma a nivel superior profesionales integrales y éticos, fundamentados en sostenibilidad, equidad y proyección social, promoviendo la investigación, el desarrollo tecnológico y la innovación para mejorar la calidad de vida y el desarrollo de la región y del país en un ambiente globalizado. Visión La Facultad de Ingeniería será un referente nacional y mejorará su reconocimiento en América Latina por la búsqueda de soluciones sostenibles que contribuyan a mejorar la calidad de vida en el país a través del cumplimiento de su misión. 4.2.",
+    "pregunta": "¿Cuál es el objetivo de la Facultad de Ingeniería en términos de reconocimiento?",
+    "respuesta": "ser un referente nacional y mejorar su reconocimiento en América Latina",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 29,
+    "chunk_idx": 0,
+    "token_count": 192
+  },
+
+  {
+    "contexto": "Latina por la búsqueda de soluciones sostenibles que contribuyan a mejorar la calidad de vida en el país a través del cumplimiento de su misión. 4.2. Escuela de Ingeniería de Sistemas y Computación Por Resolución No. 009 del 1 febrero de 2000 (ver Anexo 5), el Consejo de Facultad de Ingeniería aprobó una nueva Estructura Académico-Administrativa para la Facultad, la cual comenzó a regir a partir de agosto de 2000.",
+    "pregunta": "¿Mediante cual resolución se aprobó la nueva Estructura Académico-Administrativa para la Facultad de Ingeniería?",
+    "respuesta": "Por Resolución No. 009 del 1 febrero de 2000",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 29,
+    "chunk_idx": 1,
+    "token_count": 104
+  },
+  {
+    "contexto": "Latina por la búsqueda de soluciones sostenibles que contribuyan a mejorar la calidad de vida en el país a través del cumplimiento de su misión. 4.2. Escuela de Ingeniería de Sistemas y Computación Por Resolución No. 009 del 1 febrero de 2000 (ver Anexo 5), el Consejo de Facultad de Ingeniería aprobó una nueva Estructura Académico-Administrativa para la Facultad, la cual comenzó a regir a partir de agosto de 2000.",
+    "pregunta": "¿En qué año comenzó a regir la nueva estructura académico-administrativa?",
+    "respuesta": "2000",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 29,
+    "chunk_idx": 1,
+    "token_count": 104
+  },
+  {
+    "contexto": "de Facultad de Ingeniería aprobó una nueva Estructura Académico-Administrativa para la Facultad, la cual comenzó a regir a partir de agosto de 2000.\nSe establecieron, entre otras, la creación de una Escuela de Informática, y la convocatoria a los profesores interesados en conformarla, para elaborar el plan de desarrollo de ésta. En ese contexto, los profesores del Departamento de Ciencias de la Computación y algunos profesores de otras unidades académicas de la Facultad, adelantaron una serie de reuniones para responder a este llamado en lo que respecta a la Escuela de Informática.\nComo resultado de esta iniciativa, existe una completa identificación del grupo de profesores con la decisión de creación de una Escuela en el área.",
+    "pregunta": "¿Cuándo comenzó a regir la nueva Estructura Académico-Administrativa para la Facultad de Ingeniería?",
+    "respuesta": "a partir de agosto de 2000",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 29,
+    "chunk_idx": 2,
+    "token_count": 184
+  },
+  {
+    "contexto": "de Facultad de Ingeniería aprobó una nueva Estructura Académico-Administrativa para la Facultad, la cual comenzó a regir a partir de agosto de 2000.\nSe establecieron, entre otras, la creación de una Escuela de Informática, y la convocatoria a los profesores interesados en conformarla, para elaborar el plan de desarrollo de ésta. En ese contexto, los profesores del Departamento de Ciencias de la Computación y algunos profesores de otras unidades académicas de la Facultad, adelantaron una serie de reuniones para responder a este llamado en lo que respecta a la Escuela de Informática.\nComo resultado de esta iniciativa, existe una completa identificación del grupo de profesores con la decisión de creación de una Escuela en el área.",
+    "pregunta": "¿Qué se estableció en la nueva Estructura Académico-Administrativa de la Facultad de Ingeniería?",
+    "respuesta": "la creación de una Escuela de Informática y la convocatoria a los profesores interesados en conformarla, para elaborar el plan de desarrollo de ésta. ",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 29,
+    "chunk_idx": 2,
+    "token_count": 184
+  },
+  {
+    "contexto": "de Facultad de Ingeniería aprobó una nueva Estructura Académico-Administrativa para la Facultad, la cual comenzó a regir a partir de agosto de 2000.\nSe establecieron, entre otras, la creación de una Escuela de Informática, y la convocatoria a los profesores interesados en conformarla, para elaborar el plan de desarrollo de ésta. En ese contexto, los profesores del Departamento de Ciencias de la Computación y algunos profesores de otras unidades académicas de la Facultad, adelantaron una serie de reuniones para responder a este llamado en lo que respecta a la Escuela de Informática.\nComo resultado de esta iniciativa, existe una completa identificación del grupo de profesores con la decisión de creación de una Escuela en el área.",
+    "pregunta": "¿Quiénes participaron en las reuniones para responder al llamado de creación de la Escuela de Informática?",
+    "respuesta": "los profesores del Departamento de Ciencias de la Computación y algunos profesores de otras unidades académicas de la Facultad",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 29,
+    "chunk_idx": 2,
+    "token_count": 184
+  },
+  {
+    "contexto": "Como resultado de esta iniciativa, existe una completa identificación del grupo de profesores con la decisión de creación de una Escuela en el área.\nSin embargo, debido al carácter disciplinar (aprobado por el Consejo de Facultad) de las Escuelas, se considera importante reflexionar alrededor del nombre propuesto.",
+    "pregunta": "¿Por qué se considera importante reflexionar sobre el nombre propuesto?",
+    "respuesta": "debido al carácter disciplinar de las Escuelas",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 29,
+    "chunk_idx": 3,
+    "token_count": 78
+  },
+  {
+    "contexto": "Como resultado de esta iniciativa, existe una completa identificación del grupo de profesores con la decisión de creación de una Escuela en el área.\nSin embargo, debido al carácter disciplinar (aprobado por el Consejo de Facultad) de las Escuelas, se considera importante reflexionar alrededor del nombre propuesto.",
+    "pregunta": "¿Quién aprobó el carácter disciplinar de las Escuelas?",
+    "respuesta": "el Consejo de Facultad",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 29,
+    "chunk_idx": 3,
+    "token_count": 78
+  },
+  {
+    "contexto": "do al carácter disciplinar (aprobado por el Consejo de Facultad) de las Escuelas, se considera importante reflexionar alrededor del nombre propuesto.\nComo resultado de este pensamiento, y tratando de conjugar la resonancia nacional (Sistemas) y la internacional (Computing) de la disciplina, se acuerda que el nombre más adecuado y pertinente para la Escuela es Escuela de Ingeniería de Sistemas y Computación, que en adelante se abreviará con la sigla EISC. Consecuentemente, a través de la Resolución No. 009 del 1 de febrero de 2000 (ver Anexo 5), del Consejo de la Facultad de Ingeniería de la Universidad del Valle, se aprueba una nueva estructura académico-administrativa para la Facultad.",
+    "pregunta": "¿Qué sigla se utiliza para abreviar el nombre de la  Escuela de Ingeniería de Sistemas y Computación?",
+    "respuesta": "EISC",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 29,
+    "chunk_idx": 4,
+    "token_count": 173
+  },
+  {
+    "contexto": "do al carácter disciplinar (aprobado por el Consejo de Facultad) de las Escuelas, se considera importante reflexionar alrededor del nombre propuesto.\nComo resultado de este pensamiento, y tratando de conjugar la resonancia nacional (Sistemas) y la internacional (Computing) de la disciplina, se acuerda que el nombre más adecuado y pertinente para la Escuela es Escuela de Ingeniería de Sistemas y Computación, que en adelante se abreviará con la sigla EISC. Consecuentemente, a través de la Resolución No. 009 del 1 de febrero de 2000 (ver Anexo 5), del Consejo de la Facultad de Ingeniería de la Universidad del Valle, se aprueba una nueva estructura académico-administrativa para la Facultad.",
+    "pregunta": "¿Cuál es el nombre completo de la escuela después de la reflexión sobre su nombre?",
+    "respuesta": "Escuela de Ingeniería de Sistemas y Computación",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 29,
+    "chunk_idx": 4,
+    "token_count": 173
+  },
+  {
+    "contexto": "do al carácter disciplinar (aprobado por el Consejo de Facultad) de las Escuelas, se considera importante reflexionar alrededor del nombre propuesto.\nComo resultado de este pensamiento, y tratando de conjugar la resonancia nacional (Sistemas) y la internacional (Computing) de la disciplina, se acuerda que el nombre más adecuado y pertinente para la Escuela es Escuela de Ingeniería de Sistemas y Computación, que en adelante se abreviará con la sigla EISC. Consecuentemente, a través de la Resolución No. 009 del 1 de febrero de 2000 (ver Anexo 5), del Consejo de la Facultad de Ingeniería de la Universidad del Valle, se aprueba una nueva estructura académico-administrativa para la Facultad.",
+    "pregunta": "¿En qué fecha se aprobó la nueva estructura académico-administrativa para la Facultad de Ingeniería?",
+    "respuesta": "1 de febrero de 2000",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 29,
+    "chunk_idx": 4,
+    "token_count": 173
+  },
+
+  {
+    "contexto": "5), del Consejo de la Facultad de Ingeniería de la Universidad del Valle, se aprueba una nueva estructura académico-administrativa para la Facultad.\nEste documento establece, entre otras cosas, la creación de la Escuela de Ingeniería de Sistemas y Computación - EISC.",
+    "pregunta": "¿Quién aprobó la nueva estructura para la Facultad de Ingeniería?",
+    "respuesta": "el Consejo de la Facultad de Ingeniería de la Universidad del Valle",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 29,
+    "chunk_idx": 5,
+    "token_count": 66
+  },
+  {
+    "contexto": "Página | 30\n Misión: Contribuir a un desarrollo sostenible del país que sea integral, competitivo y con visión global en el campo de la Ingeniería de Sistemas y de la Ciencia de la Computación, teniendo como ejes fundamentales de su acción académica, la excelencia en la docencia, la investigación y la extensión. Visión: La EISC se visualiza como una autoridad académica en su campo a nivel regional, nacional e internacional.\nAdemás, EISC tendrá un excelente posicionamiento en la región y en el país por la calidad de sus egresados, de sus investigaciones y por su impacto regional y nacional en la disciplina. 4.3.",
+    "pregunta": "¿Cuál es la misión de la EISC?",
+    "respuesta": "Contribuir a un desarrollo sostenible del país que sea integral, competitivo y con visión global en el campo de la Ingeniería de Sistemas y de la Ciencia de la Computación, teniendo como ejes fundamentales de su acción académica, la excelencia en la docencia, la investigación y la extensión",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 30,
+    "chunk_idx": 0,
+    "token_count": 154
+  },
+  {
+    "contexto": "Página | 30\n Misión: Contribuir a un desarrollo sostenible del país que sea integral, competitivo y con visión global en el campo de la Ingeniería de Sistemas y de la Ciencia de la Computación, teniendo como ejes fundamentales de su acción académica, la excelencia en la docencia, la investigación y la extensión. Visión: La EISC se visualiza como una autoridad académica en su campo a nivel regional, nacional e internacional.\nAdemás, EISC tendrá un excelente posicionamiento en la región y en el país por la calidad de sus egresados, de sus investigaciones y por su impacto regional y nacional en la disciplina. 4.3.",
+    "pregunta": "¿Qué nivel de reconocimiento busca la EISC?",
+    "respuesta": "La EISC se visualiza como una autoridad académica en su campo a nivel regional, nacional e internacional",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 30,
+    "chunk_idx": 0,
+    "token_count": 154
+  },
+  {
+    "contexto": "Página | 30\n Misión: Contribuir a un desarrollo sostenible del país que sea integral, competitivo y con visión global en el campo de la Ingeniería de Sistemas y de la Ciencia de la Computación, teniendo como ejes fundamentales de su acción académica, la excelencia en la docencia, la investigación y la extensión. Visión: La EISC se visualiza como una autoridad académica en su campo a nivel regional, nacional e internacional.\nAdemás, EISC tendrá un excelente posicionamiento en la región y en el país por la calidad de sus egresados, de sus investigaciones y por su impacto regional y nacional en la disciplina. 4.3.",
+    "pregunta": "¿Qué factores contribuirán al posicionamiento de la EISC?",
+    "respuesta": "la calidad de sus egresados, de sus investigaciones y por su impacto regional y nacional en la disciplina",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 30,
+    "chunk_idx": 0,
+    "token_count": 154
+  },
+  {
+    "contexto": "amiento en la región y en el país por la calidad de sus egresados, de sus investigaciones y por su impacto regional y nacional en la disciplina. 4.3. Programa Académico de Ingeniería de Sistemas El programa académico Ingeniería de Sistemas, adscrito a la Escuela de Ingeniería de Sistemas y Computación de la Facultad de Ingeniería de la Universidad del Valle, se nutre de las fortalezas de la Escuela (por ejemplo, calidad de los profesores del área y  de los espacios físicos), y de la Facultad (por ejemplo, calidad de los procesos académicos, de investigación y de extensión), para ser también un referente de calidad a nivel de formación.",
+    "pregunta": "¿A qué Facultad pertenece la Escuela de Ingeniería de Sistemas y Computación?",
+    "respuesta": "Facultad de Ingeniería de la Universidad del Valle",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 30,
+    "chunk_idx": 1,
+    "token_count": 160
+  },
+  {
+    "contexto": "amiento en la región y en el país por la calidad de sus egresados, de sus investigaciones y por su impacto regional y nacional en la disciplina. 4.3. Programa Académico de Ingeniería de Sistemas El programa académico Ingeniería de Sistemas, adscrito a la Escuela de Ingeniería de Sistemas y Computación de la Facultad de Ingeniería de la Universidad del Valle, se nutre de las fortalezas de la Escuela (por ejemplo, calidad de los profesores del área y  de los espacios físicos), y de la Facultad (por ejemplo, calidad de los procesos académicos, de investigación y de extensión), para ser también un referente de calidad a nivel de formación.",
+    "pregunta": "¿Qué fortalezas puede aprovechar la facultad de ingenierea que le ofrece la Escuela de Ingeniería de Sistemas y Computación?",
+    "respuesta": "calidad de los profesores del área y de los espacios físicos",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 30,
+    "chunk_idx": 1,
+    "token_count": 160
+  },
+  {
+    "contexto": "ad (por ejemplo, calidad de los procesos académicos, de investigación y de extensión), para ser también un referente de calidad a nivel de formación. El programa se desarrolla en las sedes Cali (Meléndez) y Tuluá y busca contribuir a su contexto social mediante la formación de profesionales preparados para brindar soluciones en los campos de Lenguajes y Paradigmas de Programación, Ingeniería de Software e Interacción Humano Computador, Teoría de la Computación, Infraestructura Tecnológica y Gestión Inteligente de Datos.",
+    "pregunta": "¿Dónde se desarrolla el programa?",
+    "respuesta": "en las sedes Cali (Meléndez) y Tuluá",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 30,
+    "chunk_idx": 2,
+    "token_count": 131
+  },
+
+  {
+    "contexto": "ad (por ejemplo, calidad de los procesos académicos, de investigación y de extensión), para ser también un referente de calidad a nivel de formación. El programa se desarrolla en las sedes Cali (Meléndez) y Tuluá y busca contribuir a su contexto social mediante la formación de profesionales preparados para brindar soluciones en los campos de Lenguajes y Paradigmas de Programación, Ingeniería de Software e Interacción Humano Computador, Teoría de la Computación, Infraestructura Tecnológica y Gestión Inteligente de Datos.",
+    "pregunta": "¿En qué campos busca contribuir el programa?",
+    "respuesta": "Lenguajes y Paradigmas de Programación, Ingeniería de Software e Interacción Humano Computador, Teoría de la Computación, Infraestructura Tecnológica y Gestión Inteligente de Datos",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 30,
+    "chunk_idx": 2,
+    "token_count": 131
+  },
+  {
+    "contexto": "mación, Ingeniería de Software e Interacción Humano Computador, Teoría de la Computación, Infraestructura Tecnológica y Gestión Inteligente de Datos. De esta manera, el graduado del programa aporta al contexto político y cultural en la medida en que contribuye y genera desarrollo social, tecnológico y económico del Valle del Cauca y del país, por medio de la generación, enseñanza, difusión y aplicación de conocimiento en las áreas propias de la Ingeniería de Sistemas.\nComo se muestra en la Figura 4, el programa académico de Ingeniería de Sistemas promueve la formación integral favoreciendo la participación del estudiante en el espacio de su elección, en los cuales podrá tener vivencias significativas en diferentes contextos.",
+    "pregunta": "¿Cuál es el impacto del graduado del programa de Ingeniería de Sistemas en el contexto político y cultural?",
+    "respuesta": "contribuye y genera desarrollo social, tecnológico y económico del Valle del Cauca y del país",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 30,
+    "chunk_idx": 3,
+    "token_count": 183
+  },
+  {
+    "contexto": "mación, Ingeniería de Software e Interacción Humano Computador, Teoría de la Computación, Infraestructura Tecnológica y Gestión Inteligente de Datos. De esta manera, el graduado del programa aporta al contexto político y cultural en la medida en que contribuye y genera desarrollo social, tecnológico y económico del Valle del Cauca y del país, por medio de la generación, enseñanza, difusión y aplicación de conocimiento en las áreas propias de la Ingeniería de Sistemas.\nComo se muestra en la Figura 4, el programa académico de Ingeniería de Sistemas promueve la formación integral favoreciendo la participación del estudiante en el espacio de su elección, en los cuales podrá tener vivencias significativas en diferentes contextos.",
+    "pregunta": "¿Qué figura ilustra la promoción de la formación integral en el programa académico de Ingeniería de Sistemas?",
+    "respuesta": "Figura 4",
+    "fuente": "7RAAC_Ingenierias Sistemas UV-24042025 (1)-2 (1).pdf",
+    "tipo": "texto",
+    "page_number": 30,
+    "chunk_idx": 3,
+    "token_count": 183
+  }
+]

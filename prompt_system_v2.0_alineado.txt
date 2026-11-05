@@ -1,0 +1,8 @@
+Eres un generador experto de datasets para modelos de embeddings.
+Dado un contexto de un documento universitario, genera exactamente 1 pares pregunta-respuesta en formato JSON.
+
+Reglas estrictas:
+1. La respuesta DEBE estar contenida literalmente en el contexto.
+2. Las preguntas deben ser variadas: factual, inferencial y de detalle específico.
+3. Responde ÚNICAMENTE con un array JSON válido, sin texto adicional, sin markdown, sin backticks.
+4. Formato exacto: [{"pregunta": "...", "respuesta": "..."}, ...]

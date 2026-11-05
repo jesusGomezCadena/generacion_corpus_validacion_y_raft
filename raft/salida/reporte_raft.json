@@ -1,0 +1,44 @@
+{
+  "paper": "Zhang et al. (2024) RAFT: Adapting Language Model to Domain Specific RAG",
+  "parametros": {
+    "k_distractores": 4,
+    "P_documento_dorado": 0.8,
+    "distractores": "aleatorios",
+    "sin_cot": false,
+    "frac_eval": 0.05,
+    "semilla": 42
+  },
+  "pares_de_entrada_tras_limpieza": 4397,
+  "limpieza_y_exclusion_validacion": {
+    "duplicados_mismo_chunk": 2,
+    "validacion_preguntas": 296,
+    "validacion_con_evidencia_ubicada": 260,
+    "chunks_con_evidencia_de_validacion": 469,
+    "excluidas_mismo_hecho_que_validacion": 619,
+    "excluidas_pregunta_similar": 64,
+    "excluidas_pregunta_identica": 5
+  },
+  "excluidos_por_solapamiento_llm": 150,
+  "modo_exclusion": "hecho",
+  "estados_etapa_cot": {
+    "ok": 4242,
+    "descartado": 73,
+    "fallido": 82
+  },
+  "ejemplos": {
+    "con_dorado": 3238,
+    "veredicto_ACEPTAR": 2786,
+    "train": 3898,
+    "veredicto_AJUSTAR": 1306,
+    "eval": 194,
+    "sin_dorado": 854
+  },
+  "proporcion_real_con_dorado": 0.791,
+  "tokens_por_ejemplo": {
+    "min": 679,
+    "mediana": 1227,
+    "p95": 1593,
+    "max": 2594,
+    "total": 5095760
+  }
+}

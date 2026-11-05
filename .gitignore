@@ -1,0 +1,27 @@
+# Credenciales: nunca se suben
+.env
+.env.*
+
+# Entornos y archivos generados por Python / Jupyter
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Borradores del documento y carpeta de trabajo
+Claude outputs/
+*.docx
+
+# PDF del informe de acreditación (documento institucional; quítalo si decides publicarlo)
+*.pdf
+test/
+
+# Modelos locales pesados
+*.gguf
+
+# Archivos del sistema y temporales de Office
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
